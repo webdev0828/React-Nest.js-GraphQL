@@ -1,0 +1,286 @@
+{
+  "data": {
+    "user": {
+      "id": "cjw3p6z4a00090731ncme4p6u",
+      "username": "Codelab",
+      "apps": [
+        {
+          "id": "cjtqunfv51xpg0848f0btq4y1",
+          "name": "E-Commerce Store",
+          "pages": [
+            {
+              "id": "cjtqthf641v5b0848kmy898a7",
+              "title": "Product Listing",
+              "__typename": "Page",
+              "containers": [
+                {
+                  "id": "cjx8saejt25fl0a88jt0xen2x",
+                  "index": 1,
+                  "grids": [
+                    {
+                      "id": "cjxlbhdw8hbbi0a88vhu7mvd9",
+                      "index": 0,
+                      "name": "3/3",
+                      "__typename": "Grid",
+                      "grids": null,
+                      "elements": [
+                        {
+                          "id": "cjy9t5hwej67r0946xiyn4x51",
+                          "index": 1,
+                          "component": {
+                            "id": "cjy9nz7bqita309467mtvux5n",
+                            "type": "LINK",
+                            "__typename": "Component"
+                          },
+                          "__typename": "Element"
+                        },
+                        {
+                          "id": "cjyanjdngn9iy0946h6texur0",
+                          "index": 1,
+                          "component": {
+                            "id": "cjyakposwmn2g0946w3rhlucb",
+                            "type": "FORM",
+                            "__typename": "Component"
+                          },
+                          "__typename": "Element"
+                        },
+                        {
+                          "id": "cjyas1le6nxwa0946qt2ydnox",
+                          "index": 1,
+                          "component": {
+                            "id": "cjtrupmrn4eu508486hl61q9f",
+                            "type": "IMAGE",
+                            "__typename": "Component"
+                          },
+                          "__typename": "Element"
+                        }
+                      ],
+                      "config": [
+                        {
+                          "id": "cjxlbhdwdhbbj0a88hecu43kw",
+                          "screenSize": "XXS",
+                          "breakpoint": "480",
+                          "columns": 3,
+                          "x": 0,
+                          "y": 0,
+                          "w": 12,
+                          "h": 4,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjxlbhdwfhbbl0a88h77lxdjp",
+                          "screenSize": "XS",
+                          "breakpoint": "576",
+                          "columns": 4,
+                          "x": 0,
+                          "y": 0,
+                          "w": 12,
+                          "h": 4,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjxlbhdwghbbn0a88ec967l88",
+                          "screenSize": "SM",
+                          "breakpoint": "768",
+                          "columns": 5,
+                          "x": 0,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjxlbhdwihbbp0a88vnxvxlxm",
+                          "screenSize": "MD",
+                          "breakpoint": "992",
+                          "columns": 6,
+                          "x": 0,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjxlbhdwkhbbr0a88af8mm51p",
+                          "screenSize": "LG",
+                          "breakpoint": "1200",
+                          "columns": 7,
+                          "x": 0,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "cjxtdggc8nuj80946dui1k023",
+                      "index": 0,
+                      "name": "aaa",
+                      "__typename": "Grid",
+                      "grids": null,
+                      "elements": [
+                        {
+                          "id": "cjyanibt3n8ug0946u17ifb9u",
+                          "index": 1,
+                          "component": {
+                            "id": "cjy9nym7fit870946s568x4i7",
+                            "type": "PARAGRAPH",
+                            "__typename": "Component"
+                          },
+                          "__typename": "Element"
+                        }
+                      ],
+                      "config": [
+                        {
+                          "id": "cjxtdggcdnuj9094643qd1142",
+                          "screenSize": "XXS",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 0,
+                          "y": 0,
+                          "w": 12,
+                          "h": 4,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjxtdggchnujb0946ot4f2m3m",
+                          "screenSize": "XS",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 0,
+                          "y": 0,
+                          "w": 12,
+                          "h": 4,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjxtdggcknujd0946xnpmrulp",
+                          "screenSize": "SM",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 4,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjxtdggconujf0946c9zqcmd2",
+                          "screenSize": "MD",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 4,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjxtdggcrnujh09460m91bv5k",
+                          "screenSize": "LG",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 4,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "cjy7d47m7smf309461mzry4y1",
+                      "index": 0,
+                      "name": "grid3",
+                      "__typename": "Grid",
+                      "grids": null,
+                      "elements": [],
+                      "config": [
+                        {
+                          "id": "cjy7d47mdsmf40946v06vsylx",
+                          "screenSize": "XXS",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 0,
+                          "y": 0,
+                          "w": 12,
+                          "h": 4,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjy7d47mgsmf609460akbpn1v",
+                          "screenSize": "XS",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 0,
+                          "y": 0,
+                          "w": 12,
+                          "h": 4,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjy7d47mjsmf809467rc32i3i",
+                          "screenSize": "SM",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 8,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjy7d47mnsmfa09469xfsxz0p",
+                          "screenSize": "MD",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 8,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        },
+                        {
+                          "id": "cjy7d47mqsmfc0946g8vu8ohx",
+                          "screenSize": "LG",
+                          "breakpoint": null,
+                          "columns": null,
+                          "x": 8,
+                          "y": 0,
+                          "w": 4,
+                          "h": 2,
+                          "__typename": "ConfigGrid"
+                        }
+                      ]
+                    }
+                  ],
+                  "config": {
+                    "id": "cjx8saejy25fm0a88254tg26g",
+                    "responsive": true,
+                    "__typename": "ConfigContainer"
+                  },
+                  "__typename": "Container"
+                }
+              ]
+            },
+            {
+              "id": "cjtqthnao1v5u0848j3w9ba7o",
+              "title": "Featured Items",
+              "__typename": "Page",
+              "containers": []
+            }
+          ],
+          "__typename": "App"
+        },
+        {
+          "id": "cjyd55w3gvoll09468n2yehdl",
+          "name": "My New App",
+          "pages": [],
+          "__typename": "App"
+        }
+      ],
+      "__typename": "User"
+    }
+  }
+}

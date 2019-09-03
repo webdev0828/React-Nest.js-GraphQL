@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "target": "es5",
+    "module": "commonjs",
+    "baseUrl": "./",
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "node_modules",
+    "lib"
+  ]
+}

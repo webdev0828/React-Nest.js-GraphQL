@@ -1,0 +1,12 @@
+extend type User {
+  app(where: AppWhereInput): App
+  apps(where: AppWhereInput): [App]
+}
+
+extend type App {
+  user: User
+}
+
+extend type Query {
+  appsByUserId(userId: ID!): [App]
+}

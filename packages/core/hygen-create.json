@@ -1,0 +1,21 @@
+{
+  "about": "This is a hygen-create definitions file. The hygen-create utility creates generators that can be executed using hygen.",
+  "hygen_create_version": "0.2.0",
+  "name": "uib-crud",
+  "files_and_dirs": {
+    "hygen-create.json": false,
+    "pages/model/create.jsx": true,
+    "pages/model/detail.jsx": true,
+    "pages/model/index.jsx": true,
+    "pages/model/update.jsx": true,
+    "src/containers/Model/Model-container.js": true,
+    "src/containers/Model/Model-links.js": true,
+    "src/containers/Model/Model-detail.jsx": true,
+    "src/containers/Model/Model-form--create.jsx": true,
+    "src/containers/Model/Model-form--update.jsx": true,
+    "src/containers/Model/Model-list.jsx": true
+  },
+  "templatize_using_name": "Model",
+  "templatize_using_before_pattern": [],
+  "gen_file_only": true
+}

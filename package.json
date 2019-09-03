@@ -1,0 +1,41 @@
+{
+  "private": true,
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": "8.16.0"
+  },
+  "scripts": {
+    "bootstrap": "yarn start:docker && lerna bootstrap && yarn build",
+    "reset": "rm -rf node_modules && lerna clean && rm -rf packages/*/dist",
+    "build": "npx lerna --scope={@codelab/style,@codelab/utils,@codelab/next-apollo,@codelab/system,@codelab/layout,@codelab/component} exec yarn build",
+    "build:js": "yarn webpack",
+    "start": "npm-run-all --parallel dev webpack",
+    "dev": "npx lerna --scope={@codelab/core,@codelab/auth,@codelab/utils,@codelab/style,@codelab/system,@codelab/layout,@codelab/component,@codelab/next-apollo} run dev --parallel",
+    "webpack": "webpack -w --config packages/webpack.config.js",
+    "test": "npx lerna --scope={@codelab/component,} run test --parallel",
+    "lint": "npx lerna --scope={@codelab/core,@codelab/api,@codelab/component,@codelab/style,@codelab/utils} run lint --parallel",
+    "start:docker": "docker-compose up -d",
+    "cli": "docker exec -it codelab-ui_web_1 /bin/bash"
+  },
+  "devDependencies": {
+    "husky": "^2.2.0",
+    "prettier": "^1.17.1",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.5.3",
+    "awesome-typescript-loader": "^5.2.1"
+  },
+  "resolutions": {
+    "typescript": "^3.5.3",
+    "awesome-typescript-loader": "^5.2.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint",
+      "pre-push": "yarn test"
+    }
+  }
+}

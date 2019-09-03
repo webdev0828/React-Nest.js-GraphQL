@@ -1,0 +1,70 @@
+{
+  "data": {
+    "app": {
+      "id": "cjtqunfv51xpg0848f0btq4y1",
+      "name": "E-Commerce Store",
+      "pages": [
+        {
+          "id": "cjtqthf641v5b0848kmy898a7",
+          "title": "Product Listing",
+          "containers": [
+            {
+              "id": "cjx8saejt25fl0a88jt0xen2x",
+              "grids": [
+                { "id": "cjxlbhdw8hbbi0a88vhu7mvd9", "__typename": "Grid" },
+                { "id": "cjxtdggc8nuj80946dui1k023", "__typename": "Grid" },
+                { "id": "cjy7d47m7smf309461mzry4y1", "__typename": "Grid" },
+                { "id": "cjy7f0j87twvs0946d1nv4oto", "__typename": "Grid" }
+              ],
+              "__typename": "Container"
+            }
+          ],
+          "__typename": "Page"
+        },
+        {
+          "id": "cjtqthnao1v5u0848j3w9ba7o",
+          "title": "Featured Items",
+          "containers": [],
+          "__typename": "Page"
+        }
+      ],
+      "global": {
+        "id": "cjxp168uy7mc10946juelav88",
+        "layout": [
+          {
+            "id": "cjxp168v67mc20946l206b0qv",
+            "screenSize": "XXS",
+            "breakpoint": 576,
+            "__typename": "ConfigGlobalLayout"
+          },
+          {
+            "id": "cjxp168v97mc40946pagvn2l5",
+            "screenSize": "XS",
+            "breakpoint": 576,
+            "__typename": "ConfigGlobalLayout"
+          },
+          {
+            "id": "cjxp168vd7mc60946brn3b2ck",
+            "screenSize": "SM",
+            "breakpoint": 768,
+            "__typename": "ConfigGlobalLayout"
+          },
+          {
+            "id": "cjxp168vh7mc80946nveibl6e",
+            "screenSize": "MD",
+            "breakpoint": 992,
+            "__typename": "ConfigGlobalLayout"
+          },
+          {
+            "id": "cjxp168vj7mca0946zlz1hb5g",
+            "screenSize": "LG",
+            "breakpoint": 1600,
+            "__typename": "ConfigGlobalLayout"
+          }
+        ],
+        "__typename": "Global"
+      },
+      "__typename": "App"
+    }
+  }
+}

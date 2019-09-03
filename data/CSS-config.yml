@@ -1,0 +1,61 @@
+Components:
+  - Container
+  - Grid
+  - Button
+  - Menu
+  - Form
+  - Link
+  - Image
+
+CSSConfig:
+  width:
+    options:
+      inputType:
+  min-width:
+    options:
+  max-width:
+    options:
+
+Position:
+  extends: Directionable
+  position: [static, relative, fixed, absolute, sticky]
+Display:
+  display: [block, inline, inline-block, flex]
+Dimension:
+  width[min-width, width, max-width]: Directionable
+  height[min-height, height, max-height]: Directionable
+Spacing:
+  margin: Directionable
+  padding: Directionable
+Typography:
+  extends: Colorable
+  font: String
+  font-size: String
+  font-weight: Number
+  letter-spacing: Number
+
+# Can be applied to certain properties
+Interfaces:
+  Directionable:
+    top: Number
+    right: Number
+    bottom: Number
+    left: Number
+  Colorable:
+    color: Color
+    background-color: Color
+    border-color: Color
+  Alignable:
+    text-align: [left, right, center, justify, inherit]
+    vertical-align: [baseline, top, middle, bottom]
+    justify-content:
+      [
+        flex-start,
+        flex-end,
+        center,
+        space-between,
+        space-around,
+        initial,
+        inherit,
+      ]
+    align-items: [flex-start, flex-end, center, baseline, stretch]

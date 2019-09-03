@@ -1,0 +1,49 @@
+{
+  "extends": [
+    "tslint-config-airbnb",
+    "tslint-config-prettier"
+  ],
+  "linterOptions": {
+    "exclude": [
+      "**/__generated__/**",
+      "**/node_modules/**"
+    ]
+  },
+  "rules": {
+    "no-console": false,
+    "no-unused-expression": true,
+    "object-literal-sort-keys": false,
+    "match-default-export-name": true,
+    "interface-name": [
+      true,
+      "always-prefix"
+    ],
+    "no-var-requires": false,
+    "jsx-no-lambda": false,
+    "variable-name": [
+      true,
+      "check-format",
+      "allow-pascal-case",
+      "allow-leading-underscore"
+    ],
+    "import-name": false,
+    "align": [
+      true,
+      "parameters",
+      "statements"
+    ],
+    "arrow-parens": [
+      true,
+      "ban-single-arg-parens"
+    ],
+    "no-unused-variable": false,
+    "trailing-comma": [
+      true,
+      {
+        "multiline": "always",
+        "singleline": "never",
+        "esSpecCompliant": true
+      }
+    ]
+  }
+}

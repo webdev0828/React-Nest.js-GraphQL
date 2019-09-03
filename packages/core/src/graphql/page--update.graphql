@@ -1,0 +1,6 @@
+mutation UpdatePage($data: PageUpdateInput!, $where: PageWhereUniqueInput!) {
+  updatePage(data: $data, where: $where) {
+    id
+    title
+  }
+}

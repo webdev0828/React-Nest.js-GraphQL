@@ -1,0 +1,26 @@
+
+.ant-form.custom-form {
+  padding: 1.5rem;
+  max-width: 1000px;
+  margin: auto;
+  margin: 2rem auto;
+  & >h4 {
+    clear: both;
+    font-size: 1.3rem;
+    display: block;
+    margin: 0;
+    padding-left: 8px;
+    color: #fff;
+    background-color: aquamarine;
+  }
+  .Form-field.ant-form-item {
+    display: contents;
+    & >.ant-col {
+      padding: 8px 4px;
+      .form-label-wrapper.ant-form-item-label {
+        text-align: left;
+      }
+    }
+   
+  }
+}

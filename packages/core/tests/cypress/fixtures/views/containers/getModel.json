@@ -1,0 +1,35 @@
+{
+  "data": {
+    "models": [
+      {
+        "id": "cjxo3s6rw3wp80946fk2mlosp",
+        "name": "Book",
+        "__typename": "Model"
+      },
+      {
+        "id": "cjxo3saiw3wpm0946wjt09axe",
+        "name": "Author",
+        "__typename": "Model"
+      }
+    ],
+    "fieldTypes": {
+      "name": "FieldType",
+      "enumValues": [
+        { "name": "STRING", "__typename": "__EnumValue" },
+        { "name": "INTEGER", "__typename": "__EnumValue" },
+        { "name": "RELATIONSHIP", "__typename": "__EnumValue" }
+      ],
+      "__typename": "__Type"
+    },
+    "relationshipTypes": {
+      "name": "RelationshipType",
+      "enumValues": [
+        { "name": "ONE_TO_ONE", "__typename": "__EnumValue" },
+        { "name": "ONE_TO_MANY", "__typename": "__EnumValue" },
+        { "name": "MANY_TO_ONE", "__typename": "__EnumValue" },
+        { "name": "MANY_TO_MANY", "__typename": "__EnumValue" }
+      ],
+      "__typename": "__Type"
+    }
+  }
+}

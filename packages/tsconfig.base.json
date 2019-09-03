@@ -1,0 +1,19 @@
+// Dev (not build) tsconfig
+{
+  "extends": "./tsconfig.shared.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es6"
+    // "baseUrl": ".",
+    // "paths": {
+    //   // "*": ["core/*", "form/*", "layout/*"],
+    //   // "@codelab/core/*": ["core/src/*"],
+    //   "@codelab/form": ["form/src/index.ts"],
+    //   "@codelab/layout": ["layout/src/index.ts"]
+    // }
+  },
+  "exclude": [
+    "**/dist",
+    "node_modules"
+  ]
+}

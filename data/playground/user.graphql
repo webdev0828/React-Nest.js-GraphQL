@@ -1,0 +1,6 @@
+query user {
+  usr(where: { username: "Codelab" }) {
+    id
+    username
+  }
+}

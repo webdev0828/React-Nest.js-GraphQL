@@ -1,0 +1,5 @@
+mutation UpdateGrid($data: GridUpdateInput!, $where: GridWhereUniqueInput!) {
+  updateGrid(data: $data, where: $where) {
+    id
+  }
+}

@@ -1,0 +1,109 @@
+fragment UserFragment on Usr {
+  apps {
+    ...AppFragment
+  }
+}
+
+fragment AppFragment on App {
+  name
+  pages {
+    ...PageFragment
+  }
+}
+
+fragment PageFragment on Page {
+  title
+  containers {
+    ...ContainerFragment
+  }
+}
+
+fragment ContainerFragment on Container {
+  index
+  grids {
+    ...GridFragment
+  }
+}
+
+fragment GridFragment on Grid {
+  id
+  index
+  name
+  __typename
+  grids
+  elements {
+    ...ElementFragment
+  }
+}
+
+fragment ElementFragment on Element {
+  index
+  id
+  component {
+    type
+  }
+  variantInstances {
+    ...VariantInstanceTemplate
+  }
+}
+
+fragment VariantInstanceTemplate on VariantInstance {
+  variantTemplate {
+    name
+  }
+  variant {
+    ...VariantTemplate
+  }
+}
+
+fragment VariantTemplate on Variant {
+  classes {
+    ...CSSClassTemplate
+  }
+}
+
+fragment CSSClassTemplate on CssClass {
+  css {
+    ...CSSInstanceTemplate
+  }
+}
+
+# fragment VariantTemplateTemplate on VariantTemplate {
+#   variants {
+#     name
+#   }
+# }
+
+fragment CSSInstanceTemplate on CssInstance {
+  option {
+    ...CSSValueTemplate
+  }
+  property {
+    ...CSSPropertyTemplate
+  }
+}
+
+# fragment CSSTemplateTemplate on CssTemplate {
+#   name
+#   property {
+#     ...CSSPropertyTemplate
+#   }
+#   options {
+#     ...CSSValueTemplate
+#   }
+# }
+
+fragment CSSPropertyTemplate on CssProperty {
+  value
+}
+
+fragment CSSValueTemplate on CssValue {
+  value
+  type
+}
+
+query userQuery {
+  usrs(where: { username: "Codelab" }) {
+    ...UserFragment
+  }
+}

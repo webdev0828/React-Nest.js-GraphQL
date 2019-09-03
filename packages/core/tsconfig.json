@@ -1,0 +1,14 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": "./",
+    "rootDirs": [
+      "./"
+    ]
+  },
+  "include": [
+    "../../node_modules/@types/jest",
+    "**/*.ts",
+    "**/*.tsx"
+  ]
+}

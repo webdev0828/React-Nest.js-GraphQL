@@ -1,0 +1,8 @@
+mutation UpdateContainer(
+  $data: ContainerUpdateInput!
+  $where: ContainerWhereUniqueInput!
+) {
+  updateContainer(data: $data, where: $where) {
+    id
+  }
+}

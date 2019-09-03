@@ -1,0 +1,85 @@
+{
+  "env": {
+    "development": {
+      "presets": [
+        "next/babel",
+        "@zeit/next-typescript/babel"
+      ],
+      "plugins": [
+        [
+          "styled-components",
+          {
+            "ssr": true
+            // "displayName": true,
+            // "preprocess": false
+          }
+        ],
+        [
+          "emotion"
+        ],
+        [
+          "module-resolver",
+          {
+            "root": [
+              "./"
+            ]
+          }
+        ],
+        [
+          "import",
+          {
+            "libraryName": "antd",
+            "style": false
+          }
+        ],
+        "import-graphql",
+        [
+          "@babel/plugin-proposal-decorators",
+          {
+            "legacy": true
+          }
+        ]
+      ]
+    },
+    "production": {
+      "presets": [
+        "next/babel",
+        "@zeit/next-typescript/babel"
+      ],
+      "plugins": [
+        [
+          "module-resolver",
+          {
+            "root": [
+              "./"
+            ]
+          }
+        ],
+        "import-graphql"
+      ]
+    },
+    "test": {
+      "presets": [
+        [
+          "next/babel",
+          {
+            "preset-env": {
+              "modules": "commonjs"
+            }
+          }
+        ],
+        "@zeit/next-typescript/babel"
+      ],
+      "plugins": [
+        [
+          "module-resolver",
+          {
+            "root": [
+              "./"
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

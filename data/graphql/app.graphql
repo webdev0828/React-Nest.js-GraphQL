@@ -1,0 +1,35 @@
+fragment GridFragment on Grid {
+  id
+  index
+  name
+  __typename
+  elements {
+    ...ElementFragment
+  }
+}
+
+fragment GridRecursive on Container {
+  grids {
+    ...GridFragment
+    grids {
+      ...GridFragment
+      grids {
+        ...GridFragment
+      }
+    }
+  }
+}
+
+
+
+{
+  usrs(where: { username: "Codelab" }) {
+    apps {
+      pages {
+        containers {
+          ...GridRecursive
+        }
+      }
+    }
+  }
+}

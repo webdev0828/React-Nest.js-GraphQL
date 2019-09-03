@@ -1,0 +1,21 @@
+# import User from 'src/graphql/typeDefs/prisma.schema.graphql'
+# import UserCreateInput from 'src/graphql/typeDefs/prisma.schema.graphql'
+
+directive @auth on FIELD_DEFINITION
+
+type Query {
+  me: User
+  user: User
+}
+
+type RegisterResponse {
+  token: String!
+  user: User!
+}
+
+type Mutation {
+  register(data: UserCreateInput!): RegisterResponse!
+  login(data: UserCreateInput!): RegisterResponse!
+  logout: Boolean
+}
+

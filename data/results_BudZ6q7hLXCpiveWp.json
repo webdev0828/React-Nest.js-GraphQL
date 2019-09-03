@@ -1,0 +1,2275 @@
+[{
+  "value": "align-items: flex-start;",
+  "url": "https://cssreference.io/property/align-items/"
+},
+{
+  "value": "align-items: flex-end;",
+  "url": "https://cssreference.io/property/align-items/"
+},
+{
+  "value": "align-items: center;",
+  "url": "https://cssreference.io/property/align-items/"
+},
+{
+  "value": "align-items: baseline;",
+  "url": "https://cssreference.io/property/align-items/"
+},
+{
+  "value": "align-items: stretch;",
+  "url": "https://cssreference.io/property/align-items/"
+},
+{
+  "value": "align-self: auto;",
+  "url": "https://cssreference.io/property/align-self/"
+},
+{
+  "value": "align-self: flex-start;",
+  "url": "https://cssreference.io/property/align-self/"
+},
+{
+  "value": "align-self: flex-end;",
+  "url": "https://cssreference.io/property/align-self/"
+},
+{
+  "value": "align-self: center;",
+  "url": "https://cssreference.io/property/align-self/"
+},
+{
+  "value": "align-self: baseline;",
+  "url": "https://cssreference.io/property/align-self/"
+},
+{
+  "value": "align-self: stretch;",
+  "url": "https://cssreference.io/property/align-self/"
+},
+{
+  "value": "animation-delay: 0s;",
+  "url": "https://cssreference.io/property/animation-delay/"
+},
+{
+  "value": "animation-delay: 1.2s;",
+  "url": "https://cssreference.io/property/animation-delay/"
+},
+{
+  "value": "animation-delay: 2400ms;",
+  "url": "https://cssreference.io/property/animation-delay/"
+},
+{
+  "value": "animation-delay: -500ms;",
+  "url": "https://cssreference.io/property/animation-delay/"
+},
+{
+  "value": "animation-direction: normal;",
+  "url": "https://cssreference.io/property/animation-direction/"
+},
+{
+  "value": "animation-direction: reverse;",
+  "url": "https://cssreference.io/property/animation-direction/"
+},
+{
+  "value": "animation-direction: alternate;",
+  "url": "https://cssreference.io/property/animation-direction/"
+},
+{
+  "value": "animation-direction: alternate-reverse;",
+  "url": "https://cssreference.io/property/animation-direction/"
+},
+{
+  "value": "animation-duration: 0s;",
+  "url": "https://cssreference.io/property/animation-duration/"
+},
+{
+  "value": "animation-duration: 1.2s;",
+  "url": "https://cssreference.io/property/animation-duration/"
+},
+{
+  "value": "animation-duration: 2400ms;",
+  "url": "https://cssreference.io/property/animation-duration/"
+},
+{
+  "value": "animation-fill-mode: none;",
+  "url": "https://cssreference.io/property/animation-fill-mode/"
+},
+{
+  "value": "animation-fill-mode: forwards;",
+  "url": "https://cssreference.io/property/animation-fill-mode/"
+},
+{
+  "value": "animation-fill-mode: backwards;",
+  "url": "https://cssreference.io/property/animation-fill-mode/"
+},
+{
+  "value": "animation-fill-mode: both;",
+  "url": "https://cssreference.io/property/animation-fill-mode/"
+},
+{
+  "value": "animation-iteration-count: 1;",
+  "url": "https://cssreference.io/property/animation-iteration-count/"
+},
+{
+  "value": "animation-iteration-count: 2;",
+  "url": "https://cssreference.io/property/animation-iteration-count/"
+},
+{
+  "value": "animation-iteration-count: infinite;",
+  "url": "https://cssreference.io/property/animation-iteration-count/"
+},
+{
+  "value": "animation-name: none;",
+  "url": "https://cssreference.io/property/animation-name/"
+},
+{
+  "value": "animation-name: fadeIn;",
+  "url": "https://cssreference.io/property/animation-name/"
+},
+{
+  "value": "animation-name: moveRight;",
+  "url": "https://cssreference.io/property/animation-name/"
+},
+{
+  "value": "animation-play-state: running;",
+  "url": "https://cssreference.io/property/animation-play-state/"
+},
+{
+  "value": "animation-play-state: paused;",
+  "url": "https://cssreference.io/property/animation-play-state/"
+},
+{
+  "value": "animation-timing-function: ease;",
+  "url": "https://cssreference.io/property/animation-timing-function/"
+},
+{
+  "value": "animation-timing-function: ease-in;",
+  "url": "https://cssreference.io/property/animation-timing-function/"
+},
+{
+  "value": "animation-timing-function: ease-out;",
+  "url": "https://cssreference.io/property/animation-timing-function/"
+},
+{
+  "value": "animation-timing-function: ease-in-out;",
+  "url": "https://cssreference.io/property/animation-timing-function/"
+},
+{
+  "value": "animation-timing-function: linear;",
+  "url": "https://cssreference.io/property/animation-timing-function/"
+},
+{
+  "value": "animation-timing-function: step-start;",
+  "url": "https://cssreference.io/property/animation-timing-function/"
+},
+{
+  "value": "animation-timing-function: step-end;",
+  "url": "https://cssreference.io/property/animation-timing-function/"
+},
+{
+  "value": "animation-timing-function: steps(4, end);",
+  "url": "https://cssreference.io/property/animation-timing-function/"
+},
+{
+  "url": "https://cssreference.io/property/animation/"
+},
+{
+  "value": "background-attachment: scroll;",
+  "url": "https://cssreference.io/property/background-attachment/"
+},
+{
+  "value": "background-attachment: fixed;",
+  "url": "https://cssreference.io/property/background-attachment/"
+},
+{
+  "value": "background-clip: border-box;",
+  "url": "https://cssreference.io/property/background-clip/"
+},
+{
+  "value": "background-clip: padding-box;",
+  "url": "https://cssreference.io/property/background-clip/"
+},
+{
+  "value": "background-clip: content-box;",
+  "url": "https://cssreference.io/property/background-clip/"
+},
+{
+  "value": "background-color: transparent;",
+  "url": "https://cssreference.io/property/background-color/"
+},
+{
+  "value": "background-color: red;",
+  "url": "https://cssreference.io/property/background-color/"
+},
+{
+  "value": "background-color: #05ffb0;",
+  "url": "https://cssreference.io/property/background-color/"
+},
+{
+  "value": "background-color: rgb(50, 115, 220);",
+  "url": "https://cssreference.io/property/background-color/"
+},
+{
+  "value": "background-color: rgba(50, 115, 220, 0.3);",
+  "url": "https://cssreference.io/property/background-color/"
+},
+{
+  "value": "background-color: hsl(14, 100%, 53%);",
+  "url": "https://cssreference.io/property/background-color/"
+},
+{
+  "value": "background-color: hsla(14, 100%, 53%, 0.6);",
+  "url": "https://cssreference.io/property/background-color/"
+},
+{
+  "value": "background-image: none;",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-image: url(/images/jt.png);",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-image: linear-gradient(red, blue);",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-image: linear-gradient(45deg, red, blue);",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-image: radial-gradient(green, purple);",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-image: radial-gradient(circle, green, purple);",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-image: radial-gradient(circle, green 0%, purple 20%, orange 100%);",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-image: radial-gradient(circle closest-side, green 0%, purple 20%, orange 100%);",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-image: radial-gradient(circle closest-side at 45px 45px, green 0%, purple 20%, orange 100%);",
+  "url": "https://cssreference.io/property/background-image/"
+},
+{
+  "value": "background-origin: padding-box;",
+  "url": "https://cssreference.io/property/background-origin/"
+},
+{
+  "value": "background-origin: border-box;",
+  "url": "https://cssreference.io/property/background-origin/"
+},
+{
+  "value": "background-origin: content-box;",
+  "url": "https://cssreference.io/property/background-origin/"
+},
+{
+  "value": "background-position: 0% 0%;",
+  "url": "https://cssreference.io/property/background-position/"
+},
+{
+  "value": "background-position: bottom right;",
+  "url": "https://cssreference.io/property/background-position/"
+},
+{
+  "value": "background-position: center center;",
+  "url": "https://cssreference.io/property/background-position/"
+},
+{
+  "value": "background-repeat: repeat;",
+  "url": "https://cssreference.io/property/background-repeat/"
+},
+{
+  "value": "background-repeat: repeat-x;",
+  "url": "https://cssreference.io/property/background-repeat/"
+},
+{
+  "value": "background-repeat: repeat-y;",
+  "url": "https://cssreference.io/property/background-repeat/"
+},
+{
+  "value": "background-repeat: no-repeat;",
+  "url": "https://cssreference.io/property/background-repeat/"
+},
+{
+  "value": "background-size: auto auto;",
+  "url": "https://cssreference.io/property/background-size/"
+},
+{
+  "value": "background-size: 120px 80px;",
+  "url": "https://cssreference.io/property/background-size/"
+},
+{
+  "value": "background-size: 100% 50%;",
+  "url": "https://cssreference.io/property/background-size/"
+},
+{
+  "value": "background-size: contain;",
+  "url": "https://cssreference.io/property/background-size/"
+},
+{
+  "value": "background-size: cover;",
+  "url": "https://cssreference.io/property/background-size/"
+},
+{
+  "url": "https://cssreference.io/property/background/"
+},
+{
+  "value": "border-bottom-color: transparent;",
+  "url": "https://cssreference.io/property/border-bottom-color/"
+},
+{
+  "value": "border-bottom-color: red;",
+  "url": "https://cssreference.io/property/border-bottom-color/"
+},
+{
+  "value": "border-bottom-color: #05ffb0;",
+  "url": "https://cssreference.io/property/border-bottom-color/"
+},
+{
+  "value": "border-bottom-left-radius: 0;",
+  "url": "https://cssreference.io/property/border-bottom-left-radius/"
+},
+{
+  "value": "border-bottom-left-radius: 20px;",
+  "url": "https://cssreference.io/property/border-bottom-left-radius/"
+},
+{
+  "value": "border-bottom-left-radius: 50%;",
+  "url": "https://cssreference.io/property/border-bottom-left-radius/"
+},
+{
+  "value": "border-bottom-left-radius: 20px 50%;",
+  "url": "https://cssreference.io/property/border-bottom-left-radius/"
+},
+{
+  "value": "border-bottom-right-radius: 0;",
+  "url": "https://cssreference.io/property/border-bottom-right-radius/"
+},
+{
+  "value": "border-bottom-right-radius: 20px;",
+  "url": "https://cssreference.io/property/border-bottom-right-radius/"
+},
+{
+  "value": "border-bottom-right-radius: 50%;",
+  "url": "https://cssreference.io/property/border-bottom-right-radius/"
+},
+{
+  "value": "border-bottom-right-radius: 20px 50%;",
+  "url": "https://cssreference.io/property/border-bottom-right-radius/"
+},
+{
+  "value": "border-bottom-style: none;",
+  "url": "https://cssreference.io/property/border-bottom-style/"
+},
+{
+  "value": "border-bottom-style: dotted;",
+  "url": "https://cssreference.io/property/border-bottom-style/"
+},
+{
+  "value": "border-bottom-style: dashed;",
+  "url": "https://cssreference.io/property/border-bottom-style/"
+},
+{
+  "value": "border-bottom-style: solid;",
+  "url": "https://cssreference.io/property/border-bottom-style/"
+},
+{
+  "value": "border-bottom-style: double;",
+  "url": "https://cssreference.io/property/border-bottom-style/"
+},
+{
+  "value": "border-bottom-style: groove;",
+  "url": "https://cssreference.io/property/border-bottom-style/"
+},
+{
+  "value": "border-bottom-width: 0;",
+  "url": "https://cssreference.io/property/border-bottom-width/"
+},
+{
+  "value": "border-bottom-width: 4px;",
+  "url": "https://cssreference.io/property/border-bottom-width/"
+},
+{
+  "value": "border-bottom: 4px dotted red;",
+  "url": "https://cssreference.io/property/border-bottom/"
+},
+{
+  "value": "border-bottom: 2px solid;",
+  "url": "https://cssreference.io/property/border-bottom/"
+},
+{
+  "value": "border-collapse: separate;",
+  "url": "https://cssreference.io/property/border-collapse/"
+},
+{
+  "value": "border-collapse: collapse;",
+  "url": "https://cssreference.io/property/border-collapse/"
+},
+{
+  "value": "border-color: transparent;",
+  "url": "https://cssreference.io/property/border-color/"
+},
+{
+  "value": "border-color: red;",
+  "url": "https://cssreference.io/property/border-color/"
+},
+{
+  "value": "border-color: #05ffb0;",
+  "url": "https://cssreference.io/property/border-color/"
+},
+{
+  "value": "border-color: rgb(50, 115, 220);",
+  "url": "https://cssreference.io/property/border-color/"
+},
+{
+  "value": "border-color: rgba(50, 115, 220, 0.3);",
+  "url": "https://cssreference.io/property/border-color/"
+},
+{
+  "value": "border-color: hsl(14, 100%, 53%);",
+  "url": "https://cssreference.io/property/border-color/"
+},
+{
+  "value": "border-color: hsla(14, 100%, 53%, 0.6);",
+  "url": "https://cssreference.io/property/border-color/"
+},
+{
+  "value": "border-left-color: transparent;",
+  "url": "https://cssreference.io/property/border-left-color/"
+},
+{
+  "value": "border-left-color: red;",
+  "url": "https://cssreference.io/property/border-left-color/"
+},
+{
+  "value": "border-left-color: #05ffb0;",
+  "url": "https://cssreference.io/property/border-left-color/"
+},
+{
+  "value": "border-left-style: none;",
+  "url": "https://cssreference.io/property/border-left-style/"
+},
+{
+  "value": "border-left-style: dotted;",
+  "url": "https://cssreference.io/property/border-left-style/"
+},
+{
+  "value": "border-left-style: dashed;",
+  "url": "https://cssreference.io/property/border-left-style/"
+},
+{
+  "value": "border-left-style: solid;",
+  "url": "https://cssreference.io/property/border-left-style/"
+},
+{
+  "value": "border-left-style: double;",
+  "url": "https://cssreference.io/property/border-left-style/"
+},
+{
+  "value": "border-left-style: groove;",
+  "url": "https://cssreference.io/property/border-left-style/"
+},
+{
+  "value": "border-left-width: 0;",
+  "url": "https://cssreference.io/property/border-left-width/"
+},
+{
+  "value": "border-left-width: 4px;",
+  "url": "https://cssreference.io/property/border-left-width/"
+},
+{
+  "value": "border-left: 4px dotted red;",
+  "url": "https://cssreference.io/property/border-left/"
+},
+{
+  "value": "border-left: 2px solid;",
+  "url": "https://cssreference.io/property/border-left/"
+},
+{
+  "value": "border-radius: 0;",
+  "url": "https://cssreference.io/property/border-radius/"
+},
+{
+  "value": "border-radius: 20px;",
+  "url": "https://cssreference.io/property/border-radius/"
+},
+{
+  "value": "border-radius: 50%;",
+  "url": "https://cssreference.io/property/border-radius/"
+},
+{
+  "value": "border-radius: 20px 50%;",
+  "url": "https://cssreference.io/property/border-radius/"
+},
+{
+  "value": "border-right-color: transparent;",
+  "url": "https://cssreference.io/property/border-right-color/"
+},
+{
+  "value": "border-right-color: red;",
+  "url": "https://cssreference.io/property/border-right-color/"
+},
+{
+  "value": "border-right-color: #05ffb0;",
+  "url": "https://cssreference.io/property/border-right-color/"
+},
+{
+  "value": "border-right-style: none;",
+  "url": "https://cssreference.io/property/border-right-style/"
+},
+{
+  "value": "border-right-style: dotted;",
+  "url": "https://cssreference.io/property/border-right-style/"
+},
+{
+  "value": "border-right-style: dashed;",
+  "url": "https://cssreference.io/property/border-right-style/"
+},
+{
+  "value": "border-right-style: solid;",
+  "url": "https://cssreference.io/property/border-right-style/"
+},
+{
+  "value": "border-right-style: double;",
+  "url": "https://cssreference.io/property/border-right-style/"
+},
+{
+  "value": "border-right-style: groove;",
+  "url": "https://cssreference.io/property/border-right-style/"
+},
+{
+  "value": "border-right-width: 0;",
+  "url": "https://cssreference.io/property/border-right-width/"
+},
+{
+  "value": "border-right-width: 4px;",
+  "url": "https://cssreference.io/property/border-right-width/"
+},
+{
+  "value": "border-right: 4px dotted red;",
+  "url": "https://cssreference.io/property/border-right/"
+},
+{
+  "value": "border-right: 2px solid;",
+  "url": "https://cssreference.io/property/border-right/"
+},
+{
+  "value": "border-style: none;",
+  "url": "https://cssreference.io/property/border-style/"
+},
+{
+  "value": "border-style: dotted;",
+  "url": "https://cssreference.io/property/border-style/"
+},
+{
+  "value": "border-style: dashed;",
+  "url": "https://cssreference.io/property/border-style/"
+},
+{
+  "value": "border-style: solid;",
+  "url": "https://cssreference.io/property/border-style/"
+},
+{
+  "value": "border-style: double;",
+  "url": "https://cssreference.io/property/border-style/"
+},
+{
+  "value": "border-style: groove;",
+  "url": "https://cssreference.io/property/border-style/"
+},
+{
+  "value": "border-top-color: transparent;",
+  "url": "https://cssreference.io/property/border-top-color/"
+},
+{
+  "value": "border-top-color: red;",
+  "url": "https://cssreference.io/property/border-top-color/"
+},
+{
+  "value": "border-top-color: #05ffb0;",
+  "url": "https://cssreference.io/property/border-top-color/"
+},
+{
+  "value": "border-top-left-radius: 0;",
+  "url": "https://cssreference.io/property/border-top-left-radius/"
+},
+{
+  "value": "border-top-left-radius: 20px;",
+  "url": "https://cssreference.io/property/border-top-left-radius/"
+},
+{
+  "value": "border-top-left-radius: 50%;",
+  "url": "https://cssreference.io/property/border-top-left-radius/"
+},
+{
+  "value": "border-top-left-radius: 20px 50%;",
+  "url": "https://cssreference.io/property/border-top-left-radius/"
+},
+{
+  "value": "border-top-right-radius: 0;",
+  "url": "https://cssreference.io/property/border-top-right-radius/"
+},
+{
+  "value": "border-top-right-radius: 20px;",
+  "url": "https://cssreference.io/property/border-top-right-radius/"
+},
+{
+  "value": "border-top-right-radius: 50%;",
+  "url": "https://cssreference.io/property/border-top-right-radius/"
+},
+{
+  "value": "border-top-right-radius: 20px 50%;",
+  "url": "https://cssreference.io/property/border-top-right-radius/"
+},
+{
+  "value": "border-top-style: none;",
+  "url": "https://cssreference.io/property/border-top-style/"
+},
+{
+  "value": "border-top-style: dotted;",
+  "url": "https://cssreference.io/property/border-top-style/"
+},
+{
+  "value": "border-top-style: dashed;",
+  "url": "https://cssreference.io/property/border-top-style/"
+},
+{
+  "value": "border-top-style: solid;",
+  "url": "https://cssreference.io/property/border-top-style/"
+},
+{
+  "value": "border-top-style: double;",
+  "url": "https://cssreference.io/property/border-top-style/"
+},
+{
+  "value": "border-top-style: groove;",
+  "url": "https://cssreference.io/property/border-top-style/"
+},
+{
+  "value": "border-top-width: 0;",
+  "url": "https://cssreference.io/property/border-top-width/"
+},
+{
+  "value": "border-top-width: 4px;",
+  "url": "https://cssreference.io/property/border-top-width/"
+},
+{
+  "value": "border-top: 4px dotted red;",
+  "url": "https://cssreference.io/property/border-top/"
+},
+{
+  "value": "border-top: 2px solid;",
+  "url": "https://cssreference.io/property/border-top/"
+},
+{
+  "value": "border-width: 1px;",
+  "url": "https://cssreference.io/property/border-width/"
+},
+{
+  "value": "border-width: 2px 0;",
+  "url": "https://cssreference.io/property/border-width/"
+},
+{
+  "value": "border: 4px dotted red;",
+  "url": "https://cssreference.io/property/border/"
+},
+{
+  "value": "border: 2px solid;",
+  "url": "https://cssreference.io/property/border/"
+},
+{
+  "value": "bottom: auto;",
+  "url": "https://cssreference.io/property/bottom/"
+},
+{
+  "value": "bottom: 20px;",
+  "url": "https://cssreference.io/property/bottom/"
+},
+{
+  "value": "bottom: 0;",
+  "url": "https://cssreference.io/property/bottom/"
+},
+{
+  "value": "box-shadow: none;",
+  "url": "https://cssreference.io/property/box-shadow/"
+},
+{
+  "value": "box-shadow: 2px 6px;",
+  "url": "https://cssreference.io/property/box-shadow/"
+},
+{
+  "value": "box-shadow: 2px 6px red;",
+  "url": "https://cssreference.io/property/box-shadow/"
+},
+{
+  "value": "box-shadow: 2px 4px 10px red;",
+  "url": "https://cssreference.io/property/box-shadow/"
+},
+{
+  "value": "box-shadow: 2px 4px 10px 4px red;",
+  "url": "https://cssreference.io/property/box-shadow/"
+},
+{
+  "value": "box-sizing: content-box;",
+  "url": "https://cssreference.io/property/box-sizing/"
+},
+{
+  "value": "box-sizing: border-box;",
+  "url": "https://cssreference.io/property/box-sizing/"
+},
+{
+  "value": "clear: none;",
+  "url": "https://cssreference.io/property/clear/"
+},
+{
+  "value": "clear: left;",
+  "url": "https://cssreference.io/property/clear/"
+},
+{
+  "value": "clear: right;",
+  "url": "https://cssreference.io/property/clear/"
+},
+{
+  "value": "clear: both;",
+  "url": "https://cssreference.io/property/clear/"
+},
+{
+  "value": "color: transparent;",
+  "url": "https://cssreference.io/property/color/"
+},
+{
+  "value": "color: red;",
+  "url": "https://cssreference.io/property/color/"
+},
+{
+  "value": "color: #05ffb0;",
+  "url": "https://cssreference.io/property/color/"
+},
+{
+  "value": "color: rgb(50, 115, 220);",
+  "url": "https://cssreference.io/property/color/"
+},
+{
+  "value": "color: rgba(0, 0, 0, 0.5);",
+  "url": "https://cssreference.io/property/color/"
+},
+{
+  "value": "color: hsl(14, 100%, 53%);",
+  "url": "https://cssreference.io/property/color/"
+},
+{
+  "value": "color: hsla(14, 100%, 53%, 0.6);",
+  "url": "https://cssreference.io/property/color/"
+},
+{
+  "value": "column-count: auto;",
+  "url": "https://cssreference.io/property/column-count/"
+},
+{
+  "value": "column-count: 3;",
+  "url": "https://cssreference.io/property/column-count/"
+},
+{
+  "value": "column-gap: normal;",
+  "url": "https://cssreference.io/property/column-gap/"
+},
+{
+  "value": "column-gap: 2px;",
+  "url": "https://cssreference.io/property/column-gap/"
+},
+{
+  "value": "column-width: auto;",
+  "url": "https://cssreference.io/property/column-width/"
+},
+{
+  "value": "column-width: 10px;",
+  "url": "https://cssreference.io/property/column-width/"
+},
+{
+  "value": "content: normal;",
+  "url": "https://cssreference.io/property/content/"
+},
+{
+  "value": "content: \"Foo bar\";",
+  "url": "https://cssreference.io/property/content/"
+},
+{
+  "value": "content: url(/images/jt.png);",
+  "url": "https://cssreference.io/property/content/"
+},
+{
+  "value": "content: attr(data-something);",
+  "url": "https://cssreference.io/property/content/"
+},
+{
+  "value": "cursor: default;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: auto;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: pointer;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: move;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: crosshair;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: text;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: wait;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: help-resize;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: ne-resize;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: nw-resize;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: n-resize;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: se-resize;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: sw-resize;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: s-resize;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "cursor: w-resize;",
+  "url": "https://cssreference.io/property/cursor/"
+},
+{
+  "value": "display: none;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: inline;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: block;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: inline-block;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: list-item;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: table;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: table-cell;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: table-row;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: flex;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: inline-flex;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: grid;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "display: inline-grid;",
+  "url": "https://cssreference.io/property/display/"
+},
+{
+  "value": "flex-basis: auto;",
+  "url": "https://cssreference.io/property/flex-basis/"
+},
+{
+  "value": "flex-basis: 80px;",
+  "url": "https://cssreference.io/property/flex-basis/"
+},
+{
+  "value": "flex-direction: row;",
+  "url": "https://cssreference.io/property/flex-direction/"
+},
+{
+  "value": "flex-direction: row-reverse;",
+  "url": "https://cssreference.io/property/flex-direction/"
+},
+{
+  "value": "flex-direction: column;",
+  "url": "https://cssreference.io/property/flex-direction/"
+},
+{
+  "value": "flex-direction: column-reverse;",
+  "url": "https://cssreference.io/property/flex-direction/"
+},
+{
+  "url": "https://cssreference.io/property/flex-flow/"
+},
+{
+  "value": "flex-grow: 0;",
+  "url": "https://cssreference.io/property/flex-grow/"
+},
+{
+  "value": "flex-grow: 1;",
+  "url": "https://cssreference.io/property/flex-grow/"
+},
+{
+  "value": "flex-grow: 2;",
+  "url": "https://cssreference.io/property/flex-grow/"
+},
+{
+  "value": "flex-shrink: 1;",
+  "url": "https://cssreference.io/property/flex-shrink/"
+},
+{
+  "value": "flex-shrink: 0;",
+  "url": "https://cssreference.io/property/flex-shrink/"
+},
+{
+  "value": "flex-shrink: 2;",
+  "url": "https://cssreference.io/property/flex-shrink/"
+},
+{
+  "value": "flex-wrap: nowrap;",
+  "url": "https://cssreference.io/property/flex-wrap/"
+},
+{
+  "value": "flex-wrap: wrap;",
+  "url": "https://cssreference.io/property/flex-wrap/"
+},
+{
+  "value": "flex-wrap: wrap-reverse;",
+  "url": "https://cssreference.io/property/flex-wrap/"
+},
+{
+  "value": "float: none;",
+  "url": "https://cssreference.io/property/float/"
+},
+{
+  "value": "float: left;",
+  "url": "https://cssreference.io/property/float/"
+},
+{
+  "value": "float: right;",
+  "url": "https://cssreference.io/property/float/"
+},
+{
+  "value": "font-family: \"Source Sans Pro\", \"Arial\", sans-serif;",
+  "url": "https://cssreference.io/property/font-family/"
+},
+{
+  "value": "font-family: serif;",
+  "url": "https://cssreference.io/property/font-family/"
+},
+{
+  "value": "font-family: sans-serif;",
+  "url": "https://cssreference.io/property/font-family/"
+},
+{
+  "value": "font-family: monospace;",
+  "url": "https://cssreference.io/property/font-family/"
+},
+{
+  "value": "font-family: cursive;",
+  "url": "https://cssreference.io/property/font-family/"
+},
+{
+  "value": "font-family: fantasy;",
+  "url": "https://cssreference.io/property/font-family/"
+},
+{
+  "value": "font-size: medium;",
+  "url": "https://cssreference.io/property/font-size/"
+},
+{
+  "value": "font-size: 20px;",
+  "url": "https://cssreference.io/property/font-size/"
+},
+{
+  "value": "font-size: 1.2em;",
+  "url": "https://cssreference.io/property/font-size/"
+},
+{
+  "value": "font-size: 1.2rem;",
+  "url": "https://cssreference.io/property/font-size/"
+},
+{
+  "value": "font-size: 90%;",
+  "url": "https://cssreference.io/property/font-size/"
+},
+{
+  "value": "font-size: smaller;",
+  "url": "https://cssreference.io/property/font-size/"
+},
+{
+  "value": "font-size: x-large;",
+  "url": "https://cssreference.io/property/font-size/"
+},
+{
+  "value": "font-style: normal;",
+  "url": "https://cssreference.io/property/font-style/"
+},
+{
+  "value": "font-style: italic;",
+  "url": "https://cssreference.io/property/font-style/"
+},
+{
+  "value": "font-style: oblique;",
+  "url": "https://cssreference.io/property/font-style/"
+},
+{
+  "value": "font-variant: normal;",
+  "url": "https://cssreference.io/property/font-variant/"
+},
+{
+  "value": "font-variant: small-caps;",
+  "url": "https://cssreference.io/property/font-variant/"
+},
+{
+  "value": "font-weight: normal;",
+  "url": "https://cssreference.io/property/font-weight/"
+},
+{
+  "value": "font-weight: bold;",
+  "url": "https://cssreference.io/property/font-weight/"
+},
+{
+  "value": "font-weight: 600;",
+  "url": "https://cssreference.io/property/font-weight/"
+},
+{
+  "value": "font-weight: lighter;",
+  "url": "https://cssreference.io/property/font-weight/"
+},
+{
+  "url": "https://cssreference.io/property/font/"
+},
+{
+  "value": "grid-area: auto;",
+  "url": "https://cssreference.io/property/grid-area/"
+},
+{
+  "value": "grid-area: main;",
+  "url": "https://cssreference.io/property/grid-area/"
+},
+{
+  "value": "grid-auto-columns: auto;",
+  "url": "https://cssreference.io/property/grid-auto-columns/"
+},
+{
+  "value": "grid-auto-columns: 100px;",
+  "url": "https://cssreference.io/property/grid-auto-columns/"
+},
+{
+  "value": "grid-auto-flow: row;",
+  "url": "https://cssreference.io/property/grid-auto-flow/"
+},
+{
+  "value": "grid-auto-flow: column;",
+  "url": "https://cssreference.io/property/grid-auto-flow/"
+},
+{
+  "value": "grid-auto-flow: dense;",
+  "url": "https://cssreference.io/property/grid-auto-flow/"
+},
+{
+  "value": "grid-auto-rows: auto;",
+  "url": "https://cssreference.io/property/grid-auto-rows/"
+},
+{
+  "value": "grid-auto-rows: 100px;",
+  "url": "https://cssreference.io/property/grid-auto-rows/"
+},
+{
+  "value": "grid-column-end: auto;",
+  "url": "https://cssreference.io/property/grid-column-end/"
+},
+{
+  "value": "grid-column-end: 2;",
+  "url": "https://cssreference.io/property/grid-column-end/"
+},
+{
+  "value": "grid-column-end: 1;",
+  "url": "https://cssreference.io/property/grid-column-end/"
+},
+{
+  "value": "grid-column-gap: 0;",
+  "url": "https://cssreference.io/property/grid-column-gap/"
+},
+{
+  "value": "grid-column-gap: 10px;",
+  "url": "https://cssreference.io/property/grid-column-gap/"
+},
+{
+  "value": "grid-column-gap: 3rem;",
+  "url": "https://cssreference.io/property/grid-column-gap/"
+},
+{
+  "value": "grid-column-gap: 20%;",
+  "url": "https://cssreference.io/property/grid-column-gap/"
+},
+{
+  "value": "grid-column-start: auto;",
+  "url": "https://cssreference.io/property/grid-column-start/"
+},
+{
+  "value": "grid-column-start: 2;",
+  "url": "https://cssreference.io/property/grid-column-start/"
+},
+{
+  "value": "grid-column-start: 4;",
+  "url": "https://cssreference.io/property/grid-column-start/"
+},
+{
+  "value": "grid-column: auto auto;",
+  "url": "https://cssreference.io/property/grid-column/"
+},
+{
+  "value": "grid-column: 1 / 3;",
+  "url": "https://cssreference.io/property/grid-column/"
+},
+{
+  "value": "grid-column: span 3;",
+  "url": "https://cssreference.io/property/grid-column/"
+},
+{
+  "value": "grid-column: 1 / span 4;",
+  "url": "https://cssreference.io/property/grid-column/"
+},
+{
+  "value": "grid-column: main;",
+  "url": "https://cssreference.io/property/grid-column/"
+},
+{
+  "value": "grid-gap: 0 0;",
+  "url": "https://cssreference.io/property/grid-gap/"
+},
+{
+  "value": "grid-gap: 10px;",
+  "url": "https://cssreference.io/property/grid-gap/"
+},
+{
+  "value": "grid-gap: 3rem 1rem;",
+  "url": "https://cssreference.io/property/grid-gap/"
+},
+{
+  "value": "grid-row-end: auto;",
+  "url": "https://cssreference.io/property/grid-row-end/"
+},
+{
+  "value": "grid-row-end: 3;",
+  "url": "https://cssreference.io/property/grid-row-end/"
+},
+{
+  "value": "grid-row-end: 4;",
+  "url": "https://cssreference.io/property/grid-row-end/"
+},
+{
+  "value": "grid-row-gap: 0;",
+  "url": "https://cssreference.io/property/grid-row-gap/"
+},
+{
+  "value": "grid-row-gap: 10px;",
+  "url": "https://cssreference.io/property/grid-row-gap/"
+},
+{
+  "value": "grid-row-gap: 3rem;",
+  "url": "https://cssreference.io/property/grid-row-gap/"
+},
+{
+  "value": "grid-row-start: auto;",
+  "url": "https://cssreference.io/property/grid-row-start/"
+},
+{
+  "value": "grid-row-start: 2;",
+  "url": "https://cssreference.io/property/grid-row-start/"
+},
+{
+  "value": "grid-row-start: 3;",
+  "url": "https://cssreference.io/property/grid-row-start/"
+},
+{
+  "value": "grid-row: auto auto;",
+  "url": "https://cssreference.io/property/grid-row/"
+},
+{
+  "value": "grid-row: 1 / 3;",
+  "url": "https://cssreference.io/property/grid-row/"
+},
+{
+  "value": "grid-row: span 3;",
+  "url": "https://cssreference.io/property/grid-row/"
+},
+{
+  "value": "grid-row: 1 / span 4;",
+  "url": "https://cssreference.io/property/grid-row/"
+},
+{
+  "value": "grid-row: header;",
+  "url": "https://cssreference.io/property/grid-row/"
+},
+{
+  "value": "grid-template-areas: none;",
+  "url": "https://cssreference.io/property/grid-template-areas/"
+},
+{
+  "value": "grid-template-areas: \"header header header\" \"sidebar main main\";",
+  "url": "https://cssreference.io/property/grid-template-areas/"
+},
+{
+  "value": "grid-template-columns: none;",
+  "url": "https://cssreference.io/property/grid-template-columns/"
+},
+{
+  "value": "grid-template-columns: auto auto auto;",
+  "url": "https://cssreference.io/property/grid-template-columns/"
+},
+{
+  "value": "grid-template-columns: 80px auto 1rem;",
+  "url": "https://cssreference.io/property/grid-template-columns/"
+},
+{
+  "value": "grid-template-columns: 40px 1fr 2fr;",
+  "url": "https://cssreference.io/property/grid-template-columns/"
+},
+{
+  "value": "grid-template-rows: none;",
+  "url": "https://cssreference.io/property/grid-template-rows/"
+},
+{
+  "value": "grid-template-rows: 120px auto 3rem;",
+  "url": "https://cssreference.io/property/grid-template-rows/"
+},
+{
+  "value": "grid-template-rows: 20px 1fr 2fr;",
+  "url": "https://cssreference.io/property/grid-template-rows/"
+},
+{
+  "value": "grid-template: none;",
+  "url": "https://cssreference.io/property/grid-template/"
+},
+{
+  "value": "grid-template: 200px 1fr / 100px auto 3rem;",
+  "url": "https://cssreference.io/property/grid-template/"
+},
+{
+  "value": "grid-template: \"header header header\" 50px \"sidebar main main\" 200px / 100px auto;",
+  "url": "https://cssreference.io/property/grid-template/"
+},
+{
+  "value": "grid: \"header header header\" 50px \"sidebar main main\" 200px / 100px auto;",
+  "url": "https://cssreference.io/property/grid/"
+},
+{
+  "value": "grid: 200px 100px / auto-flow 30%;",
+  "url": "https://cssreference.io/property/grid/"
+},
+{
+  "value": "grid: auto-flow 50px / 200px 100px;",
+  "url": "https://cssreference.io/property/grid/"
+},
+{
+  "value": "height: auto;",
+  "url": "https://cssreference.io/property/height/"
+},
+{
+  "value": "height: 100px;",
+  "url": "https://cssreference.io/property/height/"
+},
+{
+  "value": "justify-content: flex-start;",
+  "url": "https://cssreference.io/property/justify-content/"
+},
+{
+  "value": "justify-content: flex-end;",
+  "url": "https://cssreference.io/property/justify-content/"
+},
+{
+  "value": "justify-content: center;",
+  "url": "https://cssreference.io/property/justify-content/"
+},
+{
+  "value": "justify-content: space-between;",
+  "url": "https://cssreference.io/property/justify-content/"
+},
+{
+  "value": "justify-content: space-around;",
+  "url": "https://cssreference.io/property/justify-content/"
+},
+{
+  "value": "left: auto;",
+  "url": "https://cssreference.io/property/left/"
+},
+{
+  "value": "left: 80px;",
+  "url": "https://cssreference.io/property/left/"
+},
+{
+  "value": "left: -20px;",
+  "url": "https://cssreference.io/property/left/"
+},
+{
+  "value": "letter-spacing: normal;",
+  "url": "https://cssreference.io/property/letter-spacing/"
+},
+{
+  "value": "letter-spacing: 2px;",
+  "url": "https://cssreference.io/property/letter-spacing/"
+},
+{
+  "value": "letter-spacing: 0.1em;",
+  "url": "https://cssreference.io/property/letter-spacing/"
+},
+{
+  "value": "line-height: normal;",
+  "url": "https://cssreference.io/property/line-height/"
+},
+{
+  "value": "line-height: 1.6;",
+  "url": "https://cssreference.io/property/line-height/"
+},
+{
+  "value": "line-height: 30px;",
+  "url": "https://cssreference.io/property/line-height/"
+},
+{
+  "value": "line-height: 0.8em;",
+  "url": "https://cssreference.io/property/line-height/"
+},
+{
+  "value": "list-style-image: none;",
+  "url": "https://cssreference.io/property/list-style-image/"
+},
+{
+  "value": "list-style-image: url(/images/list-style-image.png);",
+  "url": "https://cssreference.io/property/list-style-image/"
+},
+{
+  "value": "list-style-position: outside;",
+  "url": "https://cssreference.io/property/list-style-position/"
+},
+{
+  "value": "list-style-position: inside;",
+  "url": "https://cssreference.io/property/list-style-position/"
+},
+{
+  "value": "list-style-type: disc;",
+  "url": "https://cssreference.io/property/list-style-type/"
+},
+{
+  "value": "list-style-type: circle;",
+  "url": "https://cssreference.io/property/list-style-type/"
+},
+{
+  "value": "list-style-type: square;",
+  "url": "https://cssreference.io/property/list-style-type/"
+},
+{
+  "value": "list-style-type: decimal;",
+  "url": "https://cssreference.io/property/list-style-type/"
+},
+{
+  "value": "list-style-type: none;",
+  "url": "https://cssreference.io/property/list-style-type/"
+},
+{
+  "url": "https://cssreference.io/property/list-style/"
+},
+{
+  "value": "margin-bottom: 0;",
+  "url": "https://cssreference.io/property/margin-bottom/"
+},
+{
+  "value": "margin-bottom: 30px;",
+  "url": "https://cssreference.io/property/margin-bottom/"
+},
+{
+  "value": "margin-bottom: 2em;",
+  "url": "https://cssreference.io/property/margin-bottom/"
+},
+{
+  "value": "margin-bottom: 10%;",
+  "url": "https://cssreference.io/property/margin-bottom/"
+},
+{
+  "value": "margin-left: 0;",
+  "url": "https://cssreference.io/property/margin-left/"
+},
+{
+  "value": "margin-left: 50px;",
+  "url": "https://cssreference.io/property/margin-left/"
+},
+{
+  "value": "margin-left: 7em;",
+  "url": "https://cssreference.io/property/margin-left/"
+},
+{
+  "value": "margin-left: 30%;",
+  "url": "https://cssreference.io/property/margin-left/"
+},
+{
+  "value": "margin-left: auto;",
+  "url": "https://cssreference.io/property/margin-left/"
+},
+{
+  "value": "margin-right: 0;",
+  "url": "https://cssreference.io/property/margin-right/"
+},
+{
+  "value": "margin-right: 50px;",
+  "url": "https://cssreference.io/property/margin-right/"
+},
+{
+  "value": "margin-right: 7em;",
+  "url": "https://cssreference.io/property/margin-right/"
+},
+{
+  "value": "margin-right: 30%;",
+  "url": "https://cssreference.io/property/margin-right/"
+},
+{
+  "value": "margin-right: auto;",
+  "url": "https://cssreference.io/property/margin-right/"
+},
+{
+  "value": "margin-top: 0;",
+  "url": "https://cssreference.io/property/margin-top/"
+},
+{
+  "value": "margin-top: 30px;",
+  "url": "https://cssreference.io/property/margin-top/"
+},
+{
+  "value": "margin-top: 2em;",
+  "url": "https://cssreference.io/property/margin-top/"
+},
+{
+  "value": "margin-top: 10%;",
+  "url": "https://cssreference.io/property/margin-top/"
+},
+{
+  "value": "margin: 0;",
+  "url": "https://cssreference.io/property/margin/"
+},
+{
+  "value": "margin: 30px;",
+  "url": "https://cssreference.io/property/margin/"
+},
+{
+  "value": "margin: 30px 60px;",
+  "url": "https://cssreference.io/property/margin/"
+},
+{
+  "value": "margin: 30px 60px 45px;",
+  "url": "https://cssreference.io/property/margin/"
+},
+{
+  "value": "margin: 30px 60px 45px 85px;",
+  "url": "https://cssreference.io/property/margin/"
+},
+{
+  "value": "max-height: none;",
+  "url": "https://cssreference.io/property/max-height/"
+},
+{
+  "value": "max-height: 2000px;",
+  "url": "https://cssreference.io/property/max-height/"
+},
+{
+  "value": "max-height: 100px;",
+  "url": "https://cssreference.io/property/max-height/"
+},
+{
+  "value": "max-width: none;",
+  "url": "https://cssreference.io/property/max-width/"
+},
+{
+  "value": "max-width: 2000px;",
+  "url": "https://cssreference.io/property/max-width/"
+},
+{
+  "value": "max-width: 150px;",
+  "url": "https://cssreference.io/property/max-width/"
+},
+{
+  "value": "min-height: 0;",
+  "url": "https://cssreference.io/property/min-height/"
+},
+{
+  "value": "min-height: 200px;",
+  "url": "https://cssreference.io/property/min-height/"
+},
+{
+  "value": "min-height: 5px;",
+  "url": "https://cssreference.io/property/min-height/"
+},
+{
+  "value": "min-width: 0;",
+  "url": "https://cssreference.io/property/min-width/"
+},
+{
+  "value": "min-width: 300px;",
+  "url": "https://cssreference.io/property/min-width/"
+},
+{
+  "value": "min-width: 5px;",
+  "url": "https://cssreference.io/property/min-width/"
+},
+{
+  "value": "mix-blend-mode: normal;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: multiply;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: screen;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: overlay;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: darken;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: lighten;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: color-dodge;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: color-burn;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: hard-light;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: soft-light;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: difference;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: exclusion;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: hue;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: saturation;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: color;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "mix-blend-mode: luminosity;",
+  "url": "https://cssreference.io/property/mix-blend-mode/"
+},
+{
+  "value": "opacity: 1;",
+  "url": "https://cssreference.io/property/opacity/"
+},
+{
+  "value": "opacity: 0;",
+  "url": "https://cssreference.io/property/opacity/"
+},
+{
+  "value": "opacity: 0.3;",
+  "url": "https://cssreference.io/property/opacity/"
+},
+{
+  "value": "order: 0;",
+  "url": "https://cssreference.io/property/order/"
+},
+{
+  "value": "order: 1;",
+  "url": "https://cssreference.io/property/order/"
+},
+{
+  "value": "order: -1;",
+  "url": "https://cssreference.io/property/order/"
+},
+{
+  "value": "order: 9;",
+  "url": "https://cssreference.io/property/order/"
+},
+{
+  "value": "outline-color: transparent;",
+  "url": "https://cssreference.io/property/outline-color/"
+},
+{
+  "value": "outline-color: red;",
+  "url": "https://cssreference.io/property/outline-color/"
+},
+{
+  "value": "outline-color: #05ffb0;",
+  "url": "https://cssreference.io/property/outline-color/"
+},
+{
+  "value": "outline-color: rgb(50, 115, 220);",
+  "url": "https://cssreference.io/property/outline-color/"
+},
+{
+  "value": "outline-color: rgba(50, 115, 220, 0.3);",
+  "url": "https://cssreference.io/property/outline-color/"
+},
+{
+  "value": "outline-color: hsl(14, 100%, 53%);",
+  "url": "https://cssreference.io/property/outline-color/"
+},
+{
+  "value": "outline-color: hsla(14, 100%, 53%, 0.6);",
+  "url": "https://cssreference.io/property/outline-color/"
+},
+{
+  "value": "outline-style: none;",
+  "url": "https://cssreference.io/property/outline-style/"
+},
+{
+  "value": "outline-style: dotted;",
+  "url": "https://cssreference.io/property/outline-style/"
+},
+{
+  "value": "outline-style: dashed;",
+  "url": "https://cssreference.io/property/outline-style/"
+},
+{
+  "value": "outline-style: solid;",
+  "url": "https://cssreference.io/property/outline-style/"
+},
+{
+  "value": "outline-style: double;",
+  "url": "https://cssreference.io/property/outline-style/"
+},
+{
+  "value": "outline-style: groove;",
+  "url": "https://cssreference.io/property/outline-style/"
+},
+{
+  "value": "outline-width: medium;",
+  "url": "https://cssreference.io/property/outline-width/"
+},
+{
+  "value": "outline-width: 1px;",
+  "url": "https://cssreference.io/property/outline-width/"
+},
+{
+  "value": "outline: 4px dotted red;",
+  "url": "https://cssreference.io/property/outline/"
+},
+{
+  "value": "outline: 2px solid;",
+  "url": "https://cssreference.io/property/outline/"
+},
+{
+  "value": "overflow-wrap: normal;",
+  "url": "https://cssreference.io/property/overflow-wrap/"
+},
+{
+  "value": "overflow-wrap: break-word;",
+  "url": "https://cssreference.io/property/overflow-wrap/"
+},
+{
+  "value": "overflow-x: visible;",
+  "url": "https://cssreference.io/property/overflow-x/"
+},
+{
+  "value": "overflow-x: hidden;",
+  "url": "https://cssreference.io/property/overflow-x/"
+},
+{
+  "value": "overflow-x: scroll;",
+  "url": "https://cssreference.io/property/overflow-x/"
+},
+{
+  "value": "overflow-x: auto;",
+  "url": "https://cssreference.io/property/overflow-x/"
+},
+{
+  "value": "overflow-y: visible;",
+  "url": "https://cssreference.io/property/overflow-y/"
+},
+{
+  "value": "overflow-y: hidden;",
+  "url": "https://cssreference.io/property/overflow-y/"
+},
+{
+  "value": "overflow-y: scroll;",
+  "url": "https://cssreference.io/property/overflow-y/"
+},
+{
+  "value": "overflow-y: auto;",
+  "url": "https://cssreference.io/property/overflow-y/"
+},
+{
+  "value": "overflow: visible;",
+  "url": "https://cssreference.io/property/overflow/"
+},
+{
+  "value": "overflow: hidden;",
+  "url": "https://cssreference.io/property/overflow/"
+},
+{
+  "value": "overflow: scroll;",
+  "url": "https://cssreference.io/property/overflow/"
+},
+{
+  "value": "overflow: auto;",
+  "url": "https://cssreference.io/property/overflow/"
+},
+{
+  "value": "padding-bottom: 0;",
+  "url": "https://cssreference.io/property/padding-bottom/"
+},
+{
+  "value": "padding-bottom: 50px;",
+  "url": "https://cssreference.io/property/padding-bottom/"
+},
+{
+  "value": "padding-bottom: 7em;",
+  "url": "https://cssreference.io/property/padding-bottom/"
+},
+{
+  "value": "padding-bottom: 30%;",
+  "url": "https://cssreference.io/property/padding-bottom/"
+},
+{
+  "value": "padding-left: 0;",
+  "url": "https://cssreference.io/property/padding-left/"
+},
+{
+  "value": "padding-left: 50px;",
+  "url": "https://cssreference.io/property/padding-left/"
+},
+{
+  "value": "padding-left: 7em;",
+  "url": "https://cssreference.io/property/padding-left/"
+},
+{
+  "value": "padding-left: 30%;",
+  "url": "https://cssreference.io/property/padding-left/"
+},
+{
+  "value": "padding-right: 0;",
+  "url": "https://cssreference.io/property/padding-right/"
+},
+{
+  "value": "padding-right: 50px;",
+  "url": "https://cssreference.io/property/padding-right/"
+},
+{
+  "value": "padding-right: 7em;",
+  "url": "https://cssreference.io/property/padding-right/"
+},
+{
+  "value": "padding-right: 30%;",
+  "url": "https://cssreference.io/property/padding-right/"
+},
+{
+  "value": "padding-top: 0;",
+  "url": "https://cssreference.io/property/padding-top/"
+},
+{
+  "value": "padding-top: 50px;",
+  "url": "https://cssreference.io/property/padding-top/"
+},
+{
+  "value": "padding-top: 7em;",
+  "url": "https://cssreference.io/property/padding-top/"
+},
+{
+  "value": "padding-top: 30%;",
+  "url": "https://cssreference.io/property/padding-top/"
+},
+{
+  "value": "padding: 0;",
+  "url": "https://cssreference.io/property/padding/"
+},
+{
+  "value": "padding: 30px;",
+  "url": "https://cssreference.io/property/padding/"
+},
+{
+  "value": "padding: 30px 60px;",
+  "url": "https://cssreference.io/property/padding/"
+},
+{
+  "value": "padding: 30px 60px 45px;",
+  "url": "https://cssreference.io/property/padding/"
+},
+{
+  "value": "padding: 30px 60px 45px 85px;",
+  "url": "https://cssreference.io/property/padding/"
+},
+{
+  "value": "pointer-events: auto;",
+  "url": "https://cssreference.io/property/pointer-events/"
+},
+{
+  "value": "pointer-events: none;",
+  "url": "https://cssreference.io/property/pointer-events/"
+},
+{
+  "value": "position: static;",
+  "url": "https://cssreference.io/property/position/"
+},
+{
+  "value": "position: relative;",
+  "url": "https://cssreference.io/property/position/"
+},
+{
+  "value": "position: absolute;",
+  "url": "https://cssreference.io/property/position/"
+},
+{
+  "value": "position: fixed;",
+  "url": "https://cssreference.io/property/position/"
+},
+{
+  "value": "resize: none;",
+  "url": "https://cssreference.io/property/resize/"
+},
+{
+  "value": "resize: horizontal;",
+  "url": "https://cssreference.io/property/resize/"
+},
+{
+  "value": "resize: vertical;",
+  "url": "https://cssreference.io/property/resize/"
+},
+{
+  "value": "resize: both;",
+  "url": "https://cssreference.io/property/resize/"
+},
+{
+  "value": "right: auto;",
+  "url": "https://cssreference.io/property/right/"
+},
+{
+  "value": "right: 80px;",
+  "url": "https://cssreference.io/property/right/"
+},
+{
+  "value": "right: -20px;",
+  "url": "https://cssreference.io/property/right/"
+},
+{
+  "value": "text-align: left;",
+  "url": "https://cssreference.io/property/text-align/"
+},
+{
+  "value": "text-align: right;",
+  "url": "https://cssreference.io/property/text-align/"
+},
+{
+  "value": "text-align: center;",
+  "url": "https://cssreference.io/property/text-align/"
+},
+{
+  "value": "text-align: justify;",
+  "url": "https://cssreference.io/property/text-align/"
+},
+{
+  "value": "text-decoration: none;",
+  "url": "https://cssreference.io/property/text-decoration/"
+},
+{
+  "value": "text-decoration: underline;",
+  "url": "https://cssreference.io/property/text-decoration/"
+},
+{
+  "value": "text-indent: 0;",
+  "url": "https://cssreference.io/property/text-indent/"
+},
+{
+  "value": "text-indent: 40px;",
+  "url": "https://cssreference.io/property/text-indent/"
+},
+{
+  "value": "text-indent: -2em;",
+  "url": "https://cssreference.io/property/text-indent/"
+},
+{
+  "value": "text-overflow: clip;",
+  "url": "https://cssreference.io/property/text-overflow/"
+},
+{
+  "value": "text-overflow: ellipsis;",
+  "url": "https://cssreference.io/property/text-overflow/"
+},
+{
+  "value": "text-shadow: none;",
+  "url": "https://cssreference.io/property/text-shadow/"
+},
+{
+  "value": "text-shadow: 2px 6px;",
+  "url": "https://cssreference.io/property/text-shadow/"
+},
+{
+  "value": "text-shadow: 2px 6px red;",
+  "url": "https://cssreference.io/property/text-shadow/"
+},
+{
+  "value": "text-shadow: 2px 4px 10px red;",
+  "url": "https://cssreference.io/property/text-shadow/"
+},
+{
+  "value": "text-transform: none;",
+  "url": "https://cssreference.io/property/text-transform/"
+},
+{
+  "value": "text-transform: capitalize;",
+  "url": "https://cssreference.io/property/text-transform/"
+},
+{
+  "value": "text-transform: uppercase;",
+  "url": "https://cssreference.io/property/text-transform/"
+},
+{
+  "value": "text-transform: lowercase;",
+  "url": "https://cssreference.io/property/text-transform/"
+},
+{
+  "value": "top: auto;",
+  "url": "https://cssreference.io/property/top/"
+},
+{
+  "value": "top: 20px;",
+  "url": "https://cssreference.io/property/top/"
+},
+{
+  "value": "top: 0;",
+  "url": "https://cssreference.io/property/top/"
+},
+{
+  "value": "transform-origin: 50% 50% 0;",
+  "url": "https://cssreference.io/property/transform-origin/"
+},
+{
+  "value": "transform-origin: 20px 70%;",
+  "url": "https://cssreference.io/property/transform-origin/"
+},
+{
+  "value": "transform-origin: top right;",
+  "url": "https://cssreference.io/property/transform-origin/"
+},
+{
+  "value": "transform-origin: center bottom;",
+  "url": "https://cssreference.io/property/transform-origin/"
+},
+{
+  "value": "transform: none;",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: translateX(40px);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: translateY(20px);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: translateY(100%);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: translate(20px, -10%);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: scaleX(1.5);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: scaleY(0.4);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: scaleY(-2);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: scale(0.8, 0.8);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: rotate(45deg);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: skewX(15deg);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: skewY(45deg);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: skew(10deg, -20deg);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transform: rotate(5deg) scale(1.1, 1.1) translate(-20%, 30px);",
+  "url": "https://cssreference.io/property/transform/"
+},
+{
+  "value": "transition-delay: 0s;",
+  "url": "https://cssreference.io/property/transition-delay/"
+},
+{
+  "value": "transition-delay: 1.2s;",
+  "url": "https://cssreference.io/property/transition-delay/"
+},
+{
+  "value": "transition-delay: 2400ms;",
+  "url": "https://cssreference.io/property/transition-delay/"
+},
+{
+  "value": "transition-delay: -500ms;",
+  "url": "https://cssreference.io/property/transition-delay/"
+},
+{
+  "value": "transition-duration: 0s;",
+  "url": "https://cssreference.io/property/transition-duration/"
+},
+{
+  "value": "transition-duration: 1.2s;",
+  "url": "https://cssreference.io/property/transition-duration/"
+},
+{
+  "value": "transition-duration: 2400ms;",
+  "url": "https://cssreference.io/property/transition-duration/"
+},
+{
+  "value": "transition-property: all;",
+  "url": "https://cssreference.io/property/transition-property/"
+},
+{
+  "value": "transition-property: none;",
+  "url": "https://cssreference.io/property/transition-property/"
+},
+{
+  "value": "transition-property: background;",
+  "url": "https://cssreference.io/property/transition-property/"
+},
+{
+  "value": "transition-property: color;",
+  "url": "https://cssreference.io/property/transition-property/"
+},
+{
+  "value": "transition-property: transform;",
+  "url": "https://cssreference.io/property/transition-property/"
+},
+{
+  "value": "transition-timing-function: ease;",
+  "url": "https://cssreference.io/property/transition-timing-function/"
+},
+{
+  "value": "transition-timing-function: ease-in;",
+  "url": "https://cssreference.io/property/transition-timing-function/"
+},
+{
+  "value": "transition-timing-function: ease-out;",
+  "url": "https://cssreference.io/property/transition-timing-function/"
+},
+{
+  "value": "transition-timing-function: ease-in-out;",
+  "url": "https://cssreference.io/property/transition-timing-function/"
+},
+{
+  "value": "transition-timing-function: linear;",
+  "url": "https://cssreference.io/property/transition-timing-function/"
+},
+{
+  "value": "transition-timing-function: step-start;",
+  "url": "https://cssreference.io/property/transition-timing-function/"
+},
+{
+  "value": "transition-timing-function: step-end;",
+  "url": "https://cssreference.io/property/transition-timing-function/"
+},
+{
+  "value": "transition-timing-function: steps(4, end);",
+  "url": "https://cssreference.io/property/transition-timing-function/"
+},
+{
+  "value": "transition: 1s;",
+  "url": "https://cssreference.io/property/transition/"
+},
+{
+  "value": "transition: 1s linear;",
+  "url": "https://cssreference.io/property/transition/"
+},
+{
+  "value": "transition: background 1s linear;",
+  "url": "https://cssreference.io/property/transition/"
+},
+{
+  "value": "transition: background 1s linear 500ms;",
+  "url": "https://cssreference.io/property/transition/"
+},
+{
+  "value": "transition: background 4s, transform 1s;",
+  "url": "https://cssreference.io/property/transition/"
+},
+{
+  "value": "vertical-align: baseline;",
+  "url": "https://cssreference.io/property/vertical-align/"
+},
+{
+  "value": "vertical-align: sub;",
+  "url": "https://cssreference.io/property/vertical-align/"
+},
+{
+  "value": "vertical-align: super;",
+  "url": "https://cssreference.io/property/vertical-align/"
+},
+{
+  "value": "vertical-align: text-top;",
+  "url": "https://cssreference.io/property/vertical-align/"
+},
+{
+  "value": "vertical-align: text-bottom;",
+  "url": "https://cssreference.io/property/vertical-align/"
+},
+{
+  "value": "vertical-align: middle;",
+  "url": "https://cssreference.io/property/vertical-align/"
+},
+{
+  "value": "vertical-align: top;",
+  "url": "https://cssreference.io/property/vertical-align/"
+},
+{
+  "value": "vertical-align: bottom;",
+  "url": "https://cssreference.io/property/vertical-align/"
+},
+{
+  "value": "white-space: normal;",
+  "url": "https://cssreference.io/property/white-space/"
+},
+{
+  "value": "white-space: nowrap;",
+  "url": "https://cssreference.io/property/white-space/"
+},
+{
+  "value": "white-space: pre;",
+  "url": "https://cssreference.io/property/white-space/"
+},
+{
+  "value": "white-space: pre-wrap;",
+  "url": "https://cssreference.io/property/white-space/"
+},
+{
+  "value": "white-space: pre-line;",
+  "url": "https://cssreference.io/property/white-space/"
+},
+{
+  "value": "width: auto;",
+  "url": "https://cssreference.io/property/width/"
+},
+{
+  "value": "width: 240px;",
+  "url": "https://cssreference.io/property/width/"
+},
+{
+  "value": "width: 50%;",
+  "url": "https://cssreference.io/property/width/"
+},
+{
+  "value": "will-change: auto;",
+  "url": "https://cssreference.io/property/will-change/"
+},
+{
+  "value": "will-change: scroll-position;",
+  "url": "https://cssreference.io/property/will-change/"
+},
+{
+  "value": "will-change: contents;",
+  "url": "https://cssreference.io/property/will-change/"
+},
+{
+  "value": "will-change: box-shadow;",
+  "url": "https://cssreference.io/property/will-change/"
+},
+{
+  "value": "word-break: normal;",
+  "url": "https://cssreference.io/property/word-break/"
+},
+{
+  "value": "word-break: break-all;",
+  "url": "https://cssreference.io/property/word-break/"
+},
+{
+  "value": "word-spacing: normal;",
+  "url": "https://cssreference.io/property/word-spacing/"
+},
+{
+  "value": "word-spacing: 5px;",
+  "url": "https://cssreference.io/property/word-spacing/"
+},
+{
+  "value": "word-spacing: 2em;",
+  "url": "https://cssreference.io/property/word-spacing/"
+},
+{
+  "value": "z-index: auto;",
+  "url": "https://cssreference.io/property/z-index/"
+},
+{
+  "value": "z-index: 1;",
+  "url": "https://cssreference.io/property/z-index/"
+},
+{
+  "value": "z-index: -1;",
+  "url": "https://cssreference.io/property/z-index/"
+}]

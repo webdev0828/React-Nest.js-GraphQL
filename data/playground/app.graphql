@@ -1,0 +1,47 @@
+fragment ElementFragment on Element {
+  index
+  id
+  component {
+    type
+  }
+  variants {
+    template {
+      name
+    }
+    variant {
+      name
+    }
+  }
+}
+
+fragment ContainerFragment on Container {
+  index
+  grids {
+    ...GridFragment
+  }
+}
+
+fragment GridFragment on Grid {
+  id
+  index
+  name
+  __typename
+  grids
+  elements {
+    ...ElementFragment
+  }
+}
+
+{
+  usrs(where: { username: "Codelab" }) {
+    apps {
+      name
+      pages {
+        title
+        containers {
+          ...ContainerFragment
+        }
+      }
+    }
+  }
+}

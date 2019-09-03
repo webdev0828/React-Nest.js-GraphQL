@@ -1,0 +1,16 @@
+{
+  "data": {
+    "events": [
+      {
+        "id": "cjwexrp5mreio0a88uh6cji8o",
+        "name": "OnClick",
+        "__typename": "Event"
+      },
+      {
+        "id": "cjxmxgfkgpnh20a882mzrtl2i",
+        "name": "onTestEventEdit",
+        "__typename": "Event"
+      }
+    ]
+  }
+}

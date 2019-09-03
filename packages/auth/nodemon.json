@@ -1,0 +1,13 @@
+{
+  "watch": [
+    "src/**/*.ts",
+    "src/**/*.graphql"
+  ],
+  "ext": "ts js json graphql",
+  "exec": "ts-node -r tsconfig-paths/register --project tsconfig.build.json index.ts",
+  "events": {
+    "start": "gulp clearBabelCache",
+    "restart": "gulp clearBabelCache"
+  },
+  "signal": "SIGHUP"
+}

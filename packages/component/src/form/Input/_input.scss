@@ -1,0 +1,59 @@
+$color_dodger_blue: #1890ff;
+$border_radius: 3px;
+.grid {
+  display: block;
+  width: 100;
+  > .ant-checkbox-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 50px;
+    border-radius: 2px;
+    position: relative;
+    > .ant-checkbox {
+      display: none;
+    }
+    &-checked {
+      &:before {
+        border: 1.5px solid $color_dodger_blue;
+        border-radius: 1px;
+        content: "";
+        width: 100%;
+        position: absolute;
+        height: 46px;
+      }
+      border: 2px solid rgba($color_dodger_blue, 0.3);
+    }
+  }
+  .ant-radio-group {
+    width: 100%;
+  }
+  .ant-radio-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 50px;
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    margin-bottom: 0.5rem;
+
+    > .ant-radio {
+      display: none;
+    }
+    &-checked {
+      &:before {
+        border: 1.5px solid $color_dodger_blue;
+        border-radius: 1px;
+        content: "";
+        width: 100%;
+        position: absolute;
+        height: 46px;
+      }
+      border: 2px solid rgba($color_dodger_blue, 0.3);
+    }
+  }
+}
+.form-label-wrapper {
+  width: 100%;
+  margin-right: 5px;
+}

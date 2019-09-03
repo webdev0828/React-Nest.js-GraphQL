@@ -1,0 +1,34 @@
+fragment ComponentFragment on Component {
+  type
+  templates {
+    ...VariantTemplateFragment
+  }
+}
+
+fragment VariantTemplateFragment on VariantTemplate {
+  name
+  variants {
+    name
+    classes {
+      ...ClassFragment
+    }
+  }
+}
+
+fragment ClassFragment on CssClass {
+  name
+  css {
+    property {
+      value
+    }
+    option {
+      value
+    }
+  }
+}
+
+{
+  components {
+    ...ComponentFragment
+  }
+}

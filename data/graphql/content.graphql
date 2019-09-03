@@ -1,0 +1,11 @@
+query {
+  models(where: { name_in: ["Author", "Book"] }) {
+    name
+    contents {
+      fieldValues {
+        key
+        value
+      }
+    }
+  }
+}

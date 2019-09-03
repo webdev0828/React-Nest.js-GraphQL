@@ -1,0 +1,11 @@
+// Hidden input should have no div padding after
+.ant-input[hidden] + div {
+  display: none;
+}
+form p:last-child {
+  margin-bottom: 0;
+}
+
+.hidden-form {
+  display: none;
+}

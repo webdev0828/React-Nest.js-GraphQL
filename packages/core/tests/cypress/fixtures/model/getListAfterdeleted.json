@@ -1,0 +1,112 @@
+{
+  "data": {
+    "models": [
+      {
+        "id": "cjwex889jqt7n0a88lnpmqaz5",
+        "name": "Categories",
+        "fields": [
+          {
+            "id": "cjwezywudtmkw0a88grmup3ox",
+            "key": "Name",
+            "type": "STRING",
+            "relationship": null,
+            "__typename": "Field"
+          },
+          {
+            "id": "cjwf1outfv9bu0a88o8vzro7n",
+            "key": "Ages",
+            "type": "INTEGER",
+            "relationship": null,
+            "__typename": "Field"
+          },
+          {
+            "id": "cjwrgw8quxqr00a88dutjlhib",
+            "key": "Price",
+            "type": "INTEGER",
+            "relationship": null,
+            "__typename": "Field"
+          }
+        ],
+        "__typename": "Model"
+      },
+      {
+        "id": "cjwhlbek0vx6q0a88phu7wb70",
+        "name": "Author",
+        "fields": [
+          {
+            "id": "cjwhldczqvy4v0a880is7645n",
+            "key": "Author Name",
+            "type": "STRING",
+            "relationship": null,
+            "__typename": "Field"
+          },
+          {
+            "id": "cjwhlg88kvzit0a88xy9k9ki4",
+            "key": "Author's Books",
+            "type": "RELATIONSHIP",
+            "relationship": {
+              "id": "cjwhlg6dqvzhn0a88im6w70v3",
+              "type": "ONE_TO_MANY",
+              "name": "Book's Author",
+              "subject": {
+                "id": "cjwhlbek0vx6q0a88phu7wb70",
+                "name": "Author",
+                "__typename": "Model"
+              },
+              "predicate": null,
+              "__typename": "Relationship"
+            },
+            "__typename": "Field"
+          }
+        ],
+        "__typename": "Model"
+      },
+      {
+        "id": "cjwm6c264cz770a88d2ebt383",
+        "name": "Products",
+        "fields": [
+          {
+            "id": "cjwm6cvo9cz930a88m2no4jd1",
+            "key": "Name",
+            "type": "STRING",
+            "relationship": null,
+            "__typename": "Field"
+          },
+          {
+            "id": "cjwmqj2jtfzvu0a88firwrigb",
+            "key": "Age",
+            "type": "INTEGER",
+            "relationship": null,
+            "__typename": "Field"
+          },
+          {
+            "id": "cjwmrehbcg3f20a88rh2bc1cj",
+            "key": "Relate",
+            "type": "RELATIONSHIP",
+            "relationship": {
+              "id": "cjwmrehbhg3f30a88bbeoevb5",
+              "type": "ONE_TO_ONE",
+              "name": "Price",
+              "subject": {
+                "id": "cjwm6c264cz770a88d2ebt383",
+                "name": "Products",
+                "__typename": "Model"
+              },
+              "predicate": null,
+              "__typename": "Relationship"
+            },
+            "__typename": "Field"
+          },
+          {
+            "id": "cjwodz6v4ks9p0a880qenbbpb",
+            "key": "Price",
+            "type": "INTEGER",
+            "relationship": null,
+            "__typename": "Field"
+          }
+        ],
+        "__typename": "Model"
+      }
+    ]
+  }
+}

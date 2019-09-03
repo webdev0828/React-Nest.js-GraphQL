@@ -1,0 +1,184 @@
+{
+  "data": {
+    "components": [
+      {
+        "id": "cjtqs058r1rwm0848pdg5epfh",
+        "type": "GRID",
+        "templates": [],
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtqs0l991ry20848fc6gwals",
+        "type": "CONTAINER",
+        "templates": [],
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtqs0p4q1ryf0848apf3rk5g",
+        "type": "BUTTON",
+        "templates": [
+          {
+            "id": "cjuekjr26cohp0a88jhq0pn3u",
+            "name": "Color",
+            "variants": [
+              {
+                "id": "cjuelz3kics7c0a88129cuane",
+                "name": "Primary",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjuelzkr3cs9b0a88w34260wu",
+                "name": "Success",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjuelzqzicsaf0a88qf465xfj",
+                "name": "Danger",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjvi5xiq9fuaa0a88s5l81pzm",
+                "name": "Warning",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjwkzfdpe8umj0a88szepa37z",
+                "name": "aaa",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjwl21cyk93mh0a88bmnxx6xw",
+                "name": "NewColor",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjwl21jss93n20a88ljwsacx4",
+                "name": "NewColor",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjwlkfytpbeg30a88sqohj1sd",
+                "name": "qqq",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjwlldb65bgfh0a88wmbpbdbf",
+                "name": "qqq",
+                "__typename": "Variant"
+              }
+            ],
+            "__typename": "VariantTemplate"
+          },
+          {
+            "id": "cjuekmnoucopv0a88nge9v5xd",
+            "name": "Size",
+            "variants": [
+              {
+                "id": "cjuem05aicsc10a88w3pgyl7o",
+                "name": "SM",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjuem0b7ucscp0a881ryh0vui",
+                "name": "MD",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjuem0harcsdg0a88byivy3r0",
+                "name": "LG",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjuva7ipiixl10a88sayora04",
+                "name": "XL",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjvi615wefuih0a88xjrei3y8",
+                "name": "XXL",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjvs6e67qe3ou0a882ooub9u0",
+                "name": "Warning",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjvu59nm6ke480a88fxxo34dr",
+                "name": "Display Flex Variant",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjwl1k0ug92k20a88dh14aqw1",
+                "name": "NewWrapper",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjwlkajjpbe4l0a88ot46v8d5",
+                "name": "11",
+                "__typename": "Variant"
+              }
+            ],
+            "__typename": "VariantTemplate"
+          },
+          {
+            "id": "cjuekrsaacp570a88704pvejy",
+            "name": "Style",
+            "variants": [
+              {
+                "id": "cjuem3gf7cso00a88y9vmgeb5",
+                "name": "Standard",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjuem3mdvcsos0a88fg5frrf0",
+                "name": "Outline",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjuem3s17cspg0a88u7b5o9m5",
+                "name": "Link",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjvi4zqdgfs970a88znhz022h",
+                "name": "BD-1",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjvs6faobe3ru0a88nkmmvcpc",
+                "name": "TestVariant",
+                "__typename": "Variant"
+              },
+              {
+                "id": "cjwll8thibg5v0a885in233j0",
+                "name": "NewVar1",
+                "__typename": "Variant"
+              }
+            ],
+            "__typename": "VariantTemplate"
+          }
+        ],
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtqs0u1l1ryu08489ixm7gjn",
+        "type": "TEXT",
+        "templates": [],
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtrupmrn4eu508486hl61q9f",
+        "type": "IMAGE",
+        "templates": [],
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtruq9cm4evr0848u2ljtz87",
+        "type": "HEADING",
+        "templates": [],
+        "__typename": "Component"
+      }
+    ]
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "data": {
+    "variantInstances": [
+      {
+        "id": "cjumepfhnvqyz0a88lvatarxr",
+        "variant": null,
+        "element": {
+          "id": "cjtrva73a4gb90848by4r5kde",
+          "index": 1,
+          "component": {
+            "id": "cjtqs058r1rwm0848pdg5epfh",
+            "type": "GRID",
+            "__typename": "Component"
+          },
+          "__typename": "Element"
+        },
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjumeq9rrvr1l0a88ir89iql2",
+        "variant": {
+          "id": "cjuem3s17cspg0a88u7b5o9m5",
+          "name": "Link",
+          "classes": [],
+          "variantCategory": {
+            "id": "cjuekrsaacp570a88704pvejy",
+            "name": "Style",
+            "__typename": "VariantTemplate"
+          },
+          "__typename": "Variant"
+        },
+        "element": {
+          "id": "cjtrva73a4gb90848by4r5kde",
+          "index": 1,
+          "component": {
+            "id": "cjtqs058r1rwm0848pdg5epfh",
+            "type": "GRID",
+            "__typename": "Component"
+          },
+          "__typename": "Element"
+        },
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjuv81zvviqcr0a88vn0qaven",
+        "variant": null,
+        "element": {
+          "id": "cjtrva73a4gb90848by4r5kde",
+          "index": 1,
+          "component": {
+            "id": "cjtqs058r1rwm0848pdg5epfh",
+            "type": "GRID",
+            "__typename": "Component"
+          },
+          "__typename": "Element"
+        },
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvg5027db0nb0a88li0fecl6",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvg5027ib0nf0a88wzon7tr3",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvg5027ob0nj0a88ylsefa2n",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvg54sr0b12z0a883uwfc3u2",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvg54sr5b1330a88ae1baqcv",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvg54sr9b1370a88nkmipy7j",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvgq8a8pccdn0a88g5kx0dhc",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvgq8a8vccdr0a885tt1g0yq",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjvgq8a92ccdw0a8808ynalld",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjw3pa2esilf50a889hv7tjus",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjw3pa2ewilf90a88tc0m26og",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjw3pa2f1ilfd0a88ilet83qu",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjw5yc1mktv710a88u9lmapjv",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjw5yc1mrtv750a88ypjyij6k",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjw5yc1mxtv790a885zalo8d7",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54gzhn3zj0a887jsyil10",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54h0yn3zn0a88ufdfilnl",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54h16n3zr0a88iwliydcf",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54ntvn40r0a88vc7p9tsg",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54nu2n40v0a88m73gcjd6",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54nu9n40z0a88tm3p4rr3",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54tzkn4260a88eidu8utw",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54tzrn42a0a88i0tkz4zn",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwc54tzyn42e0a882ht1b88j",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwggpwe9ot6y0a8812vit1vo",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwggpwedot720a88rfz9hm2x",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwggpwelot760a888x0n2elt",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwgiaw5xq9jh0a881y9trnxj",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwgiaw63q9jl0a88npc5ywwh",
+        "variant": {
+          "id": "cjuem0harcsdg0a88byivy3r0",
+          "name": "LG",
+          "classes": [],
+          "variantCategory": {
+            "id": "cjuekmnoucopv0a88nge9v5xd",
+            "name": "Size",
+            "__typename": "VariantTemplate"
+          },
+          "__typename": "Variant"
+        },
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwgiaw68q9jp0a88y7mwj38n",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwgic4vzqb2j0a88ognomttw",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwgic4w6qb2n0a88aehcy4x8",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwgic4wdqb2r0a885oa23g57",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzdmu98ugb0a88e0i4u9dv",
+        "variant": {
+          "id": "cjuelz3kics7c0a88129cuane",
+          "name": "Primary",
+          "classes": [
+            {
+              "id": "cjuemb9cictdm0a88mc4jgzeu",
+              "name": "Primary Background",
+              "css": [
+                {
+                  "id": "cjuemb5pxctct0a885t1mgiq7",
+                  "name": "Primary Background",
+                  "option": {
+                    "id": "cjuemb1vcctc70a88lrzk2blu",
+                    "value": "blue",
+                    "type": "SYSTEM",
+                    "__typename": "CssValue"
+                  },
+                  "property": {
+                    "id": "cjuemakknctaa0a887tnqcqpu",
+                    "name": "background-color",
+                    "__typename": "CssProperty"
+                  },
+                  "__typename": "CssInstance"
+                }
+              ],
+              "__typename": "CssClass"
+            }
+          ],
+          "variantCategory": {
+            "id": "cjuekjr26cohp0a88jhq0pn3u",
+            "name": "Color",
+            "__typename": "VariantTemplate"
+          },
+          "__typename": "Variant"
+        },
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzdmuf8ugf0a88aqh05h6v",
+        "variant": {
+          "id": "cjuem05aicsc10a88w3pgyl7o",
+          "name": "SM",
+          "classes": [
+            {
+              "id": "cjts51dv1535l08489wd9hd9k",
+              "name": "Content Wrapper",
+              "css": [
+                {
+                  "id": "cjtqophzv1kro0848z9ynqk9f",
+                  "name": "Display Flex",
+                  "option": {
+                    "id": "cjtqifngj155o0848s75z3vz2",
+                    "value": "flex",
+                    "type": "SYSTEM",
+                    "__typename": "CssValue"
+                  },
+                  "property": {
+                    "id": "cjtm2pqvtbat10854lwhxysoo",
+                    "name": "display",
+                    "__typename": "CssProperty"
+                  },
+                  "__typename": "CssInstance"
+                },
+                {
+                  "id": "cjts4vis852rt08488k3uo45a",
+                  "name": "Padding MD",
+                  "option": {
+                    "id": "cjts4cjk051g0084844pb2uzx",
+                    "value": "30px",
+                    "type": "USER",
+                    "__typename": "CssValue"
+                  },
+                  "property": {
+                    "id": "cjts4svwi52kz0848m5g93jhw",
+                    "name": "padding",
+                    "__typename": "CssProperty"
+                  },
+                  "__typename": "CssInstance"
+                }
+              ],
+              "__typename": "CssClass"
+            }
+          ],
+          "variantCategory": {
+            "id": "cjuekmnoucopv0a88nge9v5xd",
+            "name": "Size",
+            "__typename": "VariantTemplate"
+          },
+          "__typename": "Variant"
+        },
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzdmum8ugj0a88k75pm039",
+        "variant": {
+          "id": "cjuem3gf7cso00a88y9vmgeb5",
+          "name": "Standard",
+          "classes": [],
+          "variantCategory": {
+            "id": "cjuekrsaacp570a88704pvejy",
+            "name": "Style",
+            "__typename": "VariantTemplate"
+          },
+          "__typename": "Variant"
+        },
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzdqu68uhg0a88lkmd7cqe",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzdquc8uhk0a88beovdshq",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzdquh8uho0a884rvu77e5",
+        "variant": null,
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzek5o8uk10a88f4wzwtyl",
+        "variant": {
+          "id": "cjuelzkr3cs9b0a88w34260wu",
+          "name": "Success",
+          "classes": [],
+          "variantCategory": {
+            "id": "cjuekjr26cohp0a88jhq0pn3u",
+            "name": "Color",
+            "__typename": "VariantTemplate"
+          },
+          "__typename": "Variant"
+        },
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzek5v8uk50a88tr7pd7ys",
+        "variant": {
+          "id": "cjuem0b7ucscp0a881ryh0vui",
+          "name": "MD",
+          "classes": [],
+          "variantCategory": {
+            "id": "cjuekmnoucopv0a88nge9v5xd",
+            "name": "Size",
+            "__typename": "VariantTemplate"
+          },
+          "__typename": "Variant"
+        },
+        "element": null,
+        "__typename": "VariantInstance"
+      },
+      {
+        "id": "cjwkzek608uk90a88g4cpjg3u",
+        "variant": {
+          "id": "cjuem3mdvcsos0a88fg5frrf0",
+          "name": "Outline",
+          "classes": [],
+          "variantCategory": {
+            "id": "cjuekrsaacp570a88704pvejy",
+            "name": "Style",
+            "__typename": "VariantTemplate"
+          },
+          "__typename": "Variant"
+        },
+        "element": null,
+        "__typename": "VariantInstance"
+      }
+    ],
+    "components": [
+      {
+        "id": "cjtqs058r1rwm0848pdg5epfh",
+        "type": "GRID",
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtqs0l991ry20848fc6gwals",
+        "type": "CONTAINER",
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtqs0p4q1ryf0848apf3rk5g",
+        "type": "BUTTON",
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtqs0u1l1ryu08489ixm7gjn",
+        "type": "TEXT",
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtrupmrn4eu508486hl61q9f",
+        "type": "IMAGE",
+        "__typename": "Component"
+      },
+      {
+        "id": "cjtruq9cm4evr0848u2ljtz87",
+        "type": "HEADING",
+        "__typename": "Component"
+      }
+    ],
+    "variantTemplates": [
+      {
+        "id": "cjuekjr26cohp0a88jhq0pn3u",
+        "name": "Color",
+        "__typename": "VariantTemplate"
+      },
+      {
+        "id": "cjuekmnoucopv0a88nge9v5xd",
+        "name": "Size",
+        "__typename": "VariantTemplate"
+      },
+      {
+        "id": "cjuekrsaacp570a88704pvejy",
+        "name": "Style",
+        "__typename": "VariantTemplate"
+      }
+    ]
+  }
+}

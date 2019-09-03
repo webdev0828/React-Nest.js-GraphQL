@@ -1,0 +1,21 @@
+{
+  "data": {
+    "user": {
+      "id": "cjw3p6z4a00090731ncme4p6u",
+      "username": "Codelab",
+      "apps": [
+        {
+          "id": "cjtqunfv51xpg0848f0btq4y1",
+          "name": "E-Commerce Store",
+          "__typename": "App"
+        },
+        {
+          "id": "cjtquvmhk1yav08483988s5f9",
+          "name": "Crypto Wallet",
+          "__typename": "App"
+        }
+      ],
+      "__typename": "User"
+    }
+  }
+}

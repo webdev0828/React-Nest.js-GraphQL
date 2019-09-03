@@ -1,0 +1,32 @@
+// Build (not dev) tsconfig
+// For mono-repo settings see https://github.com/RyanCavanaugh/learn-a
+{
+  "extends": "./tsconfig.shared.json",
+  "compilerOptions": {
+    // ---  Typing ---
+    //    "declaration": true,
+    //    "declarationMap": true,
+    "sourceMap": true,
+    "allowJs": false,
+    // --- Build specific compilerOptions hencefort ---
+    "target": "es6",
+    "module": "es6",
+    "lib": [
+      "es7",
+      "dom",
+      "esnext.asynciterable"
+    ],
+    // Important. Without this the compiler will complain it cannot find a referenced
+    // package during a build.
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "**/node_modules",
+    "**/tests",
+    "**/build",
+    "**/dist",
+    "**/__generated__",
+    "**/src/**/*.test.ts",
+    "**/src/**/*.test.tsx"
+  ]
+}

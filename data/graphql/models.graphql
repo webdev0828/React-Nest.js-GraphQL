@@ -1,0 +1,18 @@
+query {
+  models(where: { name_in: ["Author", "Book"] }) {
+    name
+    fields {
+      key
+      type
+      relationship {
+        subject {
+          name
+        }
+        predicate {
+          name
+        }
+        type
+      }
+    }
+  }
+}

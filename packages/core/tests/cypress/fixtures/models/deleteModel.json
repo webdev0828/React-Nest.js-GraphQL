@@ -1,0 +1,32 @@
+{
+  "data": {
+    "deleteModel": {
+      "id": "1406f7ee-baa5-4b04-82d4-daf0f6e630f1",
+      "name": "Test",
+      "fields": {
+        "items": [],
+        "nextToken": null,
+        "__typename": "ModelFieldConnection"
+      },
+      "__typename": "Model"
+    },
+    "listModels": {
+      "items": [
+        {
+          "id": "49a514de-600d-4cc0-af58-0f7f6a4b8939",
+          "name": "Menu",
+          "fields": { "nextToken": null, "__typename": "ModelFieldConnection" },
+          "__typename": "Model"
+        },
+        {
+          "id": "9c83a082-99ef-4fb1-95dc-fc16f10eb045",
+          "name": "Restaurant",
+          "fields": { "nextToken": null, "__typename": "ModelFieldConnection" },
+          "__typename": "Model"
+        }
+      ],
+      "nextToken": null,
+      "__typename": "ModelModelConnection"
+    }
+  }
+}

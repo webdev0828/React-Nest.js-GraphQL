@@ -1,0 +1,9 @@
+{
+  "data": {
+    "login": {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNqdzNwNno0YTAwMDkwNzMxbmNtZTRwNnUiLCJpYXQiOjE1NTk5MjY3MTUsImV4cCI6MTU2MDAxMzExNX0.9nkOLq-c-3qQhg_WndPubSYQt8a-vHkPIskP18yF4VY",
+      "user": { "username": "Codelab", "__typename": "User" },
+      "__typename": "RegisterResponse"
+    }
+  }
+}

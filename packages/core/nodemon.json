@@ -1,0 +1,16 @@
+{
+  "watch": [
+    "server/**/*.ts",
+    "src/**/*.graphql"
+  ],
+  "exec": "ts-node --require tsconfig-paths/register --project tsconfig.build.json server/index.ts",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "ts graphql",
+  "events": {
+    "start": "gulp clearBabelCache",
+    "restart": "gulp clearBabelCache"
+  },
+  "signal": "SIGHUP"
+}

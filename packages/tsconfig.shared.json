@@ -1,0 +1,22 @@
+// tsconfig global project options - build or dev
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "moduleResolution": "node",
+    "alwaysStrict": false,
+    "target": "es6",
+    "module": "commonjs",
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": false,
+    "importHelpers": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "resolveJsonModule": true
+  }
+}

@@ -1,0 +1,10 @@
+schema: 'http://localhost:4000/graphql'
+generates:
+  src/app/types/__generated__/index.ts:
+    documents: srcapp/models/Query.ts
+    #    documents: src/**/*.{ts,tsx}
+    plugins:
+      - typescript
+      - typescript-operations
+    config:
+      immutableTypes: true
